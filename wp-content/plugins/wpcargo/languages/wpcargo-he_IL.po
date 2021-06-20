@@ -1,0 +1,1652 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPCargo\n"
+"POT-Creation-Date: 2021-02-19 11:04+0800\n"
+"PO-Revision-Date: 2021-02-19 11:04+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: he_IL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=4; plural=(n==1 ? 0 : n==2 ? 1 : n>10 && n%10==0 ? "
+"2 : 3);\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpcargo.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/classes/class-wpc-admin-scripts.php:19
+#: admin/templates/package-metabox.tpl.php:70
+#: admin/templates/shipment-history-editable.tpl.php:61
+msgid "Are you sure you want to delete this element?"
+msgstr "בטוח שברצונך למחוק את האלמנט הזה?"
+
+#: admin/classes/class-wpc-admin-scripts.php:20
+msgid "--Please Select Client--"
+msgstr "--בבקשה בחר לקוח--"
+
+#: admin/classes/class-wpc-admin-settings.php:58 admin/includes/hooks.php:223
+msgid "Settings"
+msgstr "הגדרות"
+
+#: admin/classes/class-wpc-admin-settings.php:67
+msgid "Get Started Here"
+msgstr "התחל לעבוד כאן"
+
+#: admin/classes/class-wpc-admin-settings.php:68
+msgid "Documentation"
+msgstr "תיעוד"
+
+#: admin/classes/class-wpc-admin-settings.php:73
+msgid "Add Ons"
+msgstr "תוספים"
+
+#: admin/classes/class-wpc-admin-settings.php:74
+msgid "More Info"
+msgstr "מידע נוסף"
+
+#: admin/classes/class-wpc-admin-settings.php:79
+msgid "Facebook"
+msgstr "פייסבוק"
+
+#: admin/classes/class-wpc-admin-settings.php:80
+msgid "Like our page"
+msgstr "כמו העמוד שלנו"
+
+#: admin/classes/class-wpc-admin-settings.php:85
+msgid "Get Support"
+msgstr "קבל תמיכה"
+
+#: admin/classes/class-wpc-admin-settings.php:86
+msgid "Contact Us"
+msgstr "צרו איתנו קשר"
+
+#: admin/classes/class-wpc-admin-settings.php:91
+msgid "Get Website Hosting"
+msgstr "קבל אירוח אתרים"
+
+#: admin/classes/class-wpc-admin-settings.php:92
+msgid "Free Website Design"
+msgstr "עיצוב אתרים בחינם"
+
+#: admin/classes/class-wpc-custom-table.php:79
+msgid "No Category"
+msgstr "אין קטגוריה"
+
+#: admin/classes/class-wpc-custom-table.php:84
+msgid "Invoice"
+msgstr "חשבונית"
+
+#: admin/classes/class-wpc-custom-table.php:85
+msgid "Waybill"
+msgstr "שטר"
+
+#: admin/classes/class-wpc-custom-table.php:140
+msgid "Update Shipment Status"
+msgstr "עדכן מצב משלוח"
+
+#: admin/classes/class-wpc-custom-table.php:143
+msgid "Current City"
+msgstr "העיר הנוכחית"
+
+#: admin/classes/class-wpc-custom-table.php:146
+msgid "--Select Status--"
+msgstr "בחר יד"
+
+#: admin/classes/class-wpc-custom-table.php:154
+msgid "No Shipment Status Found."
+msgstr "לא נמצא מצב משלוח."
+
+#: admin/classes/class-wpc-custom-table.php:154
+#: admin/templates/settings-option.tpl.php:24
+msgid "Add Shipment Status"
+msgstr "הוסף מצב משלוח"
+
+#: admin/classes/class-wpc-custom-table.php:156
+#: admin/includes/functions.php:482
+msgid "Remarks"
+msgstr "הערות"
+
+#: admin/classes/class-wpc-custom-table.php:164
+msgid "Select Agent"
+msgstr "בחר סוכן"
+
+#: admin/classes/class-wpc-custom-table.php:166 admin/includes/hooks.php:249
+msgid "— No Change —"
+msgstr "— ללא שינוי —"
+
+#: admin/classes/class-wpc-export-extend.php:58
+msgid "Purchase"
+msgstr "רכישה"
+
+#: admin/classes/class-wpc-export-extend.php:59
+msgid "If you want a more comprehensive and customizable report, purchase"
+msgstr "אם ברצונך לקבל דוח מקיף יותר ולהתאמה אישית, רכוש"
+
+#: admin/classes/class-wpc-export-extend.php:151
+msgid "Shipment Reports"
+msgstr "דוחות משלוחים"
+
+#: admin/classes/class-wpc-export.php:8 admin/includes/functions.php:208
+#: admin/includes/hooks.php:511 admin/templates/shipper-metabox.tpl.php:7
+msgid "Shipper Name"
+msgstr "שם השולח"
+
+#: admin/classes/class-wpc-export.php:13 admin/classes/class-wpc-export.php:33
+#: admin/classes/class-wpc-export.php:43 admin/includes/hooks.php:512
+#: admin/includes/hooks.php:530 admin/templates/receiver-metabox.tpl.php:14
+#: admin/templates/shipper-metabox.tpl.php:11
+msgid "Phone Number"
+msgstr "מספר טלפון"
+
+#: admin/classes/class-wpc-export.php:18
+#: admin/templates/print-details-shipper.tpl.php:14
+msgid "Shipper Address"
+msgstr "כתובת השולח"
+
+#: admin/classes/class-wpc-export.php:23 admin/includes/functions.php:105
+msgid "Shipper Email"
+msgstr "דוא ל השולח"
+
+#: admin/classes/class-wpc-export.php:28 admin/includes/functions.php:214
+#: admin/includes/hooks.php:529 admin/templates/receiver-metabox.tpl.php:8
+msgid "Receiver Name"
+msgstr "שם מקלט"
+
+#: admin/classes/class-wpc-export.php:38
+#: admin/templates/print-details-shipper.tpl.php:22
+msgid "Receiver Address"
+msgstr "כתובת מגורים של המקבל"
+
+#: admin/classes/class-wpc-export.php:48 admin/includes/functions.php:106
+msgid "Receiver Email"
+msgstr "מקלט דוא ל"
+
+#: admin/classes/class-wpc-export.php:53
+#: admin/templates/assign-metabox.tpl.php:27
+msgid "Agent Name"
+msgstr "שם"
+
+#: admin/classes/class-wpc-export.php:58 admin/includes/functions.php:514
+#: admin/templates/admin-print-label.tpl.php:85
+#: admin/templates/shipment-metabox.tpl.php:7
+msgid "Type of Shipment"
+msgstr "סוג המשלוח"
+
+#: admin/classes/class-wpc-export.php:63 admin/includes/functions.php:515
+#: admin/templates/admin-print-label.tpl.php:46
+#: admin/templates/shipment-metabox.tpl.php:32
+msgid "Courier"
+msgstr "שליח"
+
+#: admin/classes/class-wpc-export.php:68 admin/includes/functions.php:517
+#: admin/templates/admin-print-label.tpl.php:94
+#: admin/templates/shipment-metabox.tpl.php:40
+msgid "Mode"
+msgstr "מצב"
+
+#: admin/classes/class-wpc-export.php:73 admin/includes/functions.php:522
+#: admin/templates/admin-print-label.tpl.php:92
+#: admin/templates/settings-option.tpl.php:145
+#: admin/templates/shipment-metabox.tpl.php:65
+msgid "Quantity"
+msgstr "כמות"
+
+#: admin/classes/class-wpc-export.php:78 admin/includes/functions.php:523
+#: admin/templates/admin-print-label.tpl.php:91
+#: admin/templates/shipment-metabox.tpl.php:89
+msgid "Total Freight"
+msgstr "סה כ הובלה"
+
+#: admin/classes/class-wpc-export.php:83 admin/includes/functions.php:516
+#: admin/templates/admin-print-label.tpl.php:54
+#: admin/templates/shipment-metabox.tpl.php:114
+msgid "Carrier Reference No."
+msgstr "הפניית מנשא לא."
+
+#: admin/classes/class-wpc-export.php:88 admin/includes/functions.php:525
+#: admin/templates/admin-print-label.tpl.php:40
+#: admin/templates/shipment-metabox.tpl.php:125
+msgid "Origin"
+msgstr "מקור המידע"
+
+#: admin/classes/class-wpc-export.php:93 admin/includes/functions.php:526
+#: admin/templates/admin-print-label.tpl.php:29
+#: admin/templates/shipment-metabox.tpl.php:167
+msgid "Pickup Date"
+msgstr "תאריך"
+
+#: admin/classes/class-wpc-export.php:98 admin/includes/functions.php:112
+msgid "Shipment Status"
+msgstr "מצב משלוח"
+
+#: admin/classes/class-wpc-export.php:103
+#: admin/templates/shipment-metabox.tpl.php:179
+msgid "Comments"
+msgstr "תגובות"
+
+#: admin/classes/class-wpc-export.php:108 admin/includes/functions.php:521
+#: admin/templates/admin-print-label.tpl.php:88
+#: admin/templates/shipment-metabox.tpl.php:28
+msgid "Weight"
+msgstr "משקל"
+
+#: admin/classes/class-wpc-export.php:113
+#: admin/classes/class-wpc-metabox.php:100 admin/includes/functions.php:519
+#: admin/templates/admin-print-label.tpl.php:86
+#: admin/templates/shipment-metabox.tpl.php:36 templates/package.tpl.php:2
+msgid "Packages"
+msgstr "חבילות"
+
+#: admin/classes/class-wpc-export.php:118 admin/includes/functions.php:520
+#: admin/templates/admin-print-label.tpl.php:87
+#: admin/templates/shipment-metabox.tpl.php:61
+msgid "Product"
+msgstr "מוצר"
+
+#: admin/classes/class-wpc-export.php:123 admin/includes/functions.php:524
+#: admin/templates/admin-print-label.tpl.php:93
+#: admin/templates/shipment-metabox.tpl.php:69
+msgid "Payment Mode"
+msgstr "מצב תשלום"
+
+#: admin/classes/class-wpc-export.php:128 admin/includes/functions.php:518
+#: admin/templates/admin-print-label.tpl.php:51
+#: admin/templates/shipment-metabox.tpl.php:93
+msgid "Carrier"
+msgstr "נושא"
+
+#: admin/classes/class-wpc-export.php:133 admin/includes/functions.php:528
+#: admin/templates/admin-print-label.tpl.php:57
+#: admin/templates/shipment-metabox.tpl.php:118
+msgid "Departure Time"
+msgstr "זמן ההמראה"
+
+#: admin/classes/class-wpc-export.php:138 admin/includes/functions.php:527
+#: admin/templates/admin-print-label.tpl.php:43
+#: admin/templates/shipment-metabox.tpl.php:146
+msgid "Destination"
+msgstr "יעד"
+
+#: admin/classes/class-wpc-export.php:143 admin/includes/functions.php:529
+#: admin/templates/admin-print-label.tpl.php:32
+msgid "Pickup Time"
+msgstr "זמן האיסוף"
+
+#: admin/classes/class-wpc-export.php:148 admin/includes/functions.php:530
+#: admin/templates/shipment-metabox.tpl.php:175
+msgid "Expected Delivery Date"
+msgstr "תאריך מסירה צפוי"
+
+#: admin/classes/class-wpc-export.php:153
+msgid "History"
+msgstr "היסטוריה"
+
+#: admin/classes/class-wpc-export.php:345
+msgid "No Result Found!"
+msgstr "לא נמצאו תוצאות."
+
+#: admin/classes/class-wpc-metabox.php:47
+msgid "Current Status"
+msgstr "מצב נוכחי"
+
+#: admin/classes/class-wpc-metabox.php:84
+#: templates/result-shipment-history.tpl.php:2
+msgid "Shipment History"
+msgstr "היסטוריית משלוחים"
+
+#: admin/classes/class-wpc-metabox.php:91
+msgid "Assign shipment to"
+msgstr "הקצה משלוח ל"
+
+#: admin/classes/class-wpc-mp-settings.php:12
+#: admin/classes/class-wpc-mp-settings.php:131
+msgid "Multiple Package Settings"
+msgstr "הגדרות חבילה מרובות"
+
+#: admin/classes/class-wpc-mp-settings.php:25
+msgid "Enable Multiple Package on Admin?"
+msgstr "האם לאפשר מספר חבילות במנהל?"
+
+#: admin/classes/class-wpc-mp-settings.php:32
+msgid "Enable Multiple Package on Results?"
+msgstr "האם לאפשר מספר חבילות בתוצאות?"
+
+#: admin/classes/class-wpc-mp-settings.php:39
+msgid "Enable Dimension Unit?"
+msgstr "האם לאפשר יחידת ממד?"
+
+#: admin/classes/class-wpc-mp-settings.php:46
+msgid "Dimension Unit"
+msgstr "יחידת ממד"
+
+#: admin/classes/class-wpc-mp-settings.php:53
+msgid "Weight Unit"
+msgstr "יחידת משקל"
+
+#: admin/classes/class-wpc-mp-settings.php:60
+msgid "Piece Type Selection"
+msgstr "בחירת סוג חלק"
+
+#: admin/classes/class-wpc-mp-settings.php:70
+msgid ""
+"If checked you will enable the multiple package on your shipment admin "
+"dashboard."
+msgstr ""
+"אם הבדיקה מסומנת, תוכל להפעיל את החבילה הכפולה בלוח המחוונים של מנהל המשלוח."
+
+#: admin/classes/class-wpc-mp-settings.php:77
+msgid ""
+"If checked you will enable the multiple package on your shipment results."
+msgstr "אם הבדיקה מסומנת, תוכל להפעיל את החבילה הכפולה בתוצאות המשלוח שלך."
+
+#: admin/classes/class-wpc-mp-settings.php:84
+msgid "If checked you will enable the dimension unit."
+msgstr "אם הבדיקה מסומנת, תוכל להפוך את יחידת הממד לזמינה."
+
+#: admin/classes/class-wpc-mp-settings.php:91
+msgid ""
+"This will be display in the package Dimension. Example: mm, cm, inch, etc. "
+"The default is cm."
+msgstr ""
+"הדבר יוצג בחבילה Dimension. דוגמה: mm, ס\"מ, אינטש, וכו '. ברירת המחדל היא "
+"cm."
+
+#: admin/classes/class-wpc-mp-settings.php:98
+msgid ""
+"This will be display in the package Weight. Example: lbs, g, gr, kg, etc. "
+"The default is lbs."
+msgstr ""
+"זה יהיה להציג את החבילה משקל. דוגמה: ליברות, גר', גר', ק ג ועוד. ברירת המחדל "
+"היא ליברות."
+
+#: admin/classes/class-wpc-mp-settings.php:105
+msgid ""
+"This will be the selection for the Piece Type for the Package Information "
+"section. Comma separated ( Ex. Pallet, Carton, Crate, Loose, Others)"
+msgstr ""
+"פעולה זו תהיה הבחירה עבור סוג הפרוסה עבור המקטע ' פרטי חבילה '. מופרד "
+"באמצעות פסיקים (Ex. משטח, קרטון, ארגז, רופף, אחרים)"
+
+#: admin/classes/class-wpc-mp-settings.php:109
+msgid "Settings for Multiple Package, please fill out the fields below."
+msgstr "הגדרות עבור מספר חבילות, נא למלא את השדות להלן."
+
+#: admin/classes/class-wpc-mp-settings.php:112
+msgid "Multiple Package"
+msgstr "מספר חבילות"
+
+#: admin/classes/class-wpc-post-types.php:11
+#: admin/classes/class-wpc-post-types.php:12
+msgctxt "Shipment"
+msgid "Shipment"
+msgstr "משלוח"
+
+#: admin/classes/class-wpc-post-types.php:13
+#: admin/classes/class-wpc-post-types.php:26
+#: admin/classes/class-wpc-post-types.php:27
+msgid "Shipment"
+msgstr "משלוח"
+
+#: admin/classes/class-wpc-post-types.php:14
+msgid "All Shipment"
+msgstr "כל המשלוח"
+
+#: admin/classes/class-wpc-post-types.php:15
+msgid "View Shipment"
+msgstr "הצג משלוח"
+
+#: admin/classes/class-wpc-post-types.php:16
+msgid "Add New Shipment"
+msgstr "הוסף משלוח חדש"
+
+#: admin/classes/class-wpc-post-types.php:17
+msgid "Add Shipment"
+msgstr "הוסף משלוחים"
+
+#: admin/classes/class-wpc-post-types.php:18
+msgid "Edit Shipment"
+msgstr "ערוך משלוח"
+
+#: admin/classes/class-wpc-post-types.php:19
+msgid "Update Shipment"
+msgstr "עדכן משלוח"
+
+#: admin/classes/class-wpc-post-types.php:20
+msgid "Search Shipment"
+msgstr "חיפוש משלוחים"
+
+#: admin/classes/class-wpc-post-types.php:21
+msgid "Shipment Not found"
+msgstr "המשלוח לא נמצא!"
+
+#: admin/classes/class-wpc-post-types.php:22
+msgid "Shipment Not found in Trash"
+msgstr "המשלוח לא נמצא באשפה"
+
+#: admin/classes/class-wpc-post-types.php:47
+#: admin/classes/class-wpc-post-types.php:48
+msgctxt "Category"
+msgid "Category"
+msgstr "קטגוריה"
+
+#: admin/classes/class-wpc-post-types.php:49
+msgid "Search Category"
+msgstr "חפש קטגוריה"
+
+#: admin/classes/class-wpc-post-types.php:50
+msgid "All Category"
+msgstr "כל הקטגוריות"
+
+#: admin/classes/class-wpc-post-types.php:51
+msgid "Parent Category"
+msgstr "קטגוריית אב"
+
+#: admin/classes/class-wpc-post-types.php:52
+msgid "Parent Category:"
+msgstr "קטגוריית אב:"
+
+#: admin/classes/class-wpc-post-types.php:53
+msgid "Edit Category"
+msgstr "ערוך קטגוריה"
+
+#: admin/classes/class-wpc-post-types.php:54
+msgid "Update Category"
+msgstr "עדכן קטגוריה"
+
+#: admin/classes/class-wpc-post-types.php:55
+msgid "Add New Category"
+msgstr "הוסף קטגוריה חדשה"
+
+#: admin/classes/class-wpc-post-types.php:56
+msgid "New Category Name"
+msgstr "שם קטגוריה חדשה"
+
+#: admin/classes/class-wpc-post-types.php:57
+msgid "Category"
+msgstr "קטגוריה"
+
+#: admin/classes/class-wpc-print-admin.php:140
+msgid "Print Waybill"
+msgstr "הדפס שטר משוב"
+
+#: admin/classes/class-wpcargo.php:169
+msgid "Shipment Notification"
+msgstr "הודעת משלוח"
+
+#: admin/includes/filters.php:20
+msgid "-- Select All Status --"
+msgstr "--בחר את כל הסטטוס--"
+
+#: admin/includes/filters.php:36
+msgid "-- Select All Category --"
+msgstr "--בחר את כל הקטגוריה--"
+
+#: admin/includes/filters.php:45
+msgid "-- All Agents --"
+msgstr "--כל הסוכנים--"
+
+#: admin/includes/filters.php:56
+msgid "-- All Owners --"
+msgstr "--כל הבעלים--"
+
+#: admin/includes/filters.php:70
+msgid "-- All Shipper --"
+msgstr "--כל השולח--"
+
+#: admin/includes/filters.php:83
+msgid "-- All Receiver --"
+msgstr "--כל המקלט"
+
+#: admin/includes/functions.php:104
+msgid "Tracking Number"
+msgstr "מספר מעקב"
+
+#: admin/includes/functions.php:107
+msgid "Shipper Phone"
+msgstr "טלפון מוביל"
+
+#: admin/includes/functions.php:108
+msgid "Receiver Phone"
+msgstr "טלפון מקלט"
+
+#: admin/includes/functions.php:109
+msgid "Admin Email"
+msgstr "מנהל האתר"
+
+#: admin/includes/functions.php:110
+msgid "Name of the Shipper"
+msgstr "שם השולח"
+
+#: admin/includes/functions.php:111
+msgid "Name of the Receiver"
+msgstr "שם המקלט"
+
+#: admin/includes/functions.php:113 admin/includes/functions.php:464
+#: admin/includes/hooks.php:407
+msgid "Location"
+msgstr "מיקום"
+
+#: admin/includes/functions.php:114
+msgid "Website Name"
+msgstr "שם האתר"
+
+#: admin/includes/functions.php:115
+msgid "Website URL"
+msgstr "כתובת האתר"
+
+#: admin/includes/functions.php:116
+msgid "Registered Client Email"
+msgstr "דואר אלקטרוני של לקוח רשום"
+
+#: admin/includes/functions.php:123
+msgid "Pending"
+msgstr "בהמתנה"
+
+#: admin/includes/functions.php:124
+msgid "Picked up"
+msgstr "נאסף"
+
+#: admin/includes/functions.php:125
+msgid "On Hold"
+msgstr "בהשהייה"
+
+#: admin/includes/functions.php:126
+msgid "Out for delivery"
+msgstr "המשלוח בדרכו אליך"
+
+#: admin/includes/functions.php:127
+msgid "In Transit"
+msgstr "במעבר"
+
+#: admin/includes/functions.php:128
+msgid "Enroute"
+msgstr "נמצאת"
+
+#: admin/includes/functions.php:129
+msgid "Cancelled"
+msgstr "בוטל"
+
+#: admin/includes/functions.php:130
+msgid "Delivered"
+msgstr "נמסרו"
+
+#: admin/includes/functions.php:131
+msgid "Returned"
+msgstr "חזר"
+
+#: admin/includes/functions.php:141
+msgid "-- Select Type --"
+msgstr "-- בחירת סוג --"
+
+#: admin/includes/functions.php:346
+msgid "Previous"
+msgstr "הקודם"
+
+#: admin/includes/functions.php:347
+msgid "Next"
+msgstr "הבא"
+
+#: admin/includes/functions.php:348
+msgid "Shipments"
+msgstr "שלוחים"
+
+#: admin/includes/functions.php:385
+msgid "First"
+msgstr "ראשון"
+
+#: admin/includes/functions.php:387
+msgid "previous"
+msgstr "הקודם"
+
+#: admin/includes/functions.php:400
+msgid "next"
+msgstr "הבא"
+
+#: admin/includes/functions.php:403
+msgid "Last"
+msgstr "אחרון"
+
+#. Plugin Name of the plugin/theme
+#: admin/includes/functions.php:419
+msgid "WPCargo"
+msgstr "מטענים וכנסים"
+
+#: admin/includes/functions.php:422
+msgid "General Settings"
+msgstr "הגדרות כלליות"
+
+#: admin/includes/functions.php:425
+msgid "Client Email Settings"
+msgstr "הגדרות דואר אלקטרוני של לקוח"
+
+#: admin/includes/functions.php:428
+msgid "Admin Email Settings"
+msgstr "הגדרות דוא ל מנהל"
+
+#: admin/includes/functions.php:431
+msgid "Shipment Settings"
+msgstr "הגדרות משלוח"
+
+#: admin/includes/functions.php:434
+msgid "Reports"
+msgstr "דוחות"
+
+#: admin/includes/functions.php:437
+msgid "Map Settings"
+msgstr "הגדרות מיפוי"
+
+#: admin/includes/functions.php:440
+msgid "Print Layout"
+msgstr "פריסת הדפסה"
+
+#: admin/includes/functions.php:443
+msgid "Shipment Label"
+msgstr "תווית משלוח"
+
+#: admin/includes/functions.php:446 admin/templates/shipment-metabox.tpl.php:2
+msgid "Shipment Details"
+msgstr "פרטי המשלוח"
+
+#: admin/includes/functions.php:452 admin/includes/hooks.php:406
+msgid "Date"
+msgstr "תאריך"
+
+#: admin/includes/functions.php:458
+msgid "Time"
+msgstr "זמן"
+
+#: admin/includes/functions.php:470 admin/includes/hooks.php:408
+#: admin/templates/admin-print-label.tpl.php:69 templates/account.tpl.php:21
+#: templates/report.tpl.php:23
+msgid "Status"
+msgstr "סטטוס"
+
+#: admin/includes/functions.php:476
+msgid "Updated By"
+msgstr "שיקואויות נבחרות עודכנה"
+
+#: admin/includes/functions.php:548
+msgid "From: "
+msgstr "מאת: "
+
+#: admin/includes/functions.php:552
+msgid "Dear"
+msgstr "שלום"
+
+#: admin/includes/functions.php:553
+msgid "Shipment number "
+msgstr "מספר משלוח"
+
+#: admin/includes/functions.php:553
+msgid " has been assigned to you."
+msgstr "הוקצה לך."
+
+#: admin/includes/functions.php:558
+msgid "Assign Shipment Notification"
+msgstr "הקצאת הודעת משלוח"
+
+#: admin/includes/hooks.php:184 admin/includes/hooks.php:193
+msgid "Do you want to display it on account page?"
+msgstr "האם ברצונך להציגו בעמוד חשבון?"
+
+#: admin/includes/hooks.php:247
+msgid "Registered Shipper"
+msgstr "שולח רשום"
+
+#: admin/includes/hooks.php:426
+msgid "Shipment Status: "
+msgstr "מצב משלוח"
+
+#: admin/includes/hooks.php:505
+msgid "SHIPPER DETAILS:"
+msgstr "פרטי השולח:"
+
+#: admin/includes/hooks.php:513 admin/includes/hooks.php:531
+#: admin/templates/receiver-metabox.tpl.php:20
+#: admin/templates/shipper-metabox.tpl.php:15
+msgid "Address"
+msgstr "כתובת"
+
+#: admin/includes/hooks.php:514 admin/includes/hooks.php:532
+#: admin/templates/receiver-metabox.tpl.php:26
+#: admin/templates/shipper-metabox.tpl.php:19
+msgid "Email"
+msgstr "אימייל"
+
+#: admin/includes/hooks.php:522
+msgid "RECEIVER DETAILS:"
+msgstr "פרטי המקלט:"
+
+#: admin/includes/hooks.php:560
+msgid "PACKAGE DETAILS:"
+msgstr "פרטי החבילה:"
+
+#: admin/templates/account-settings.tpl.php:9
+msgid "Disable Search Client Shipper?"
+msgstr "האם לבטל את שולח לקוח חיפוש?"
+
+#: admin/templates/account-settings.tpl.php:14
+msgid "Disable Search Client Receiver?"
+msgstr "האם להפוך את מקלט לקוח חיפוש ללא זמין?"
+
+#: admin/templates/account-settings.tpl.php:19
+msgid "Save Settings"
+msgstr "שמור שינויים"
+
+#: admin/templates/admin-email-settings-option.tpl.php:7
+#: admin/templates/email-settings-option.tpl.php:7
+msgid "WPCargo Merge Tags"
+msgstr "תגיות מיזוג מטענים WPCargo"
+
+#: admin/templates/admin-email-settings-option.tpl.php:8
+#: admin/templates/email-settings-option.tpl.php:8
+msgid "Note: Use this tags for email setup to display shipment data."
+msgstr "הערה: השתמש בתגים אלה להגדרת דואר אלקטרוני כדי להציג נתוני משלוח."
+
+#: admin/templates/admin-email-settings-option.tpl.php:11
+#: admin/templates/email-settings-option.tpl.php:11
+msgid "Code"
+msgstr "קוד"
+
+#: admin/templates/admin-email-settings-option.tpl.php:12
+#: admin/templates/email-settings-option.tpl.php:12
+msgid "Label"
+msgstr "תווית"
+
+#: admin/templates/admin-email-settings-option.tpl.php:30
+msgid "Activate Admin Email Notification?"
+msgstr "הפעל מנהל הודעה דוא ל?"
+
+#: admin/templates/admin-email-settings-option.tpl.php:32
+#: admin/templates/email-settings-option.tpl.php:33
+msgid "Please check if you want to send email after updating the shipment."
+msgstr "אנא בדוק אם ברצונך לשלוח דואר אלקטרוני לאחר עדכון המשלוח."
+
+#: admin/templates/admin-email-settings-option.tpl.php:36
+#: admin/templates/email-settings-option.tpl.php:39
+msgid "Select Shipment Status to send email Notification"
+msgstr "בחר מצב משלוח כדי לשלוח הודעת דואר אלקטרוני"
+
+#: admin/templates/admin-email-settings-option.tpl.php:47
+#: admin/templates/email-settings-option.tpl.php:51
+msgid ""
+"Note: If no Shipment status is selected, Email Notify all types of shipment "
+"status"
+msgstr ""
+"הערה: אם לא נבחר מצב משלוח, שלח בדואר אלקטרוני הודעה לכל סוגי מצב המשלוח"
+
+#: admin/templates/admin-email-settings-option.tpl.php:51
+#: admin/templates/email-settings-option.tpl.php:55
+msgid "Domain Email"
+msgstr "תחום דוא ל"
+
+#: admin/templates/admin-email-settings-option.tpl.php:54
+#: admin/templates/email-settings-option.tpl.php:58
+msgid ""
+"Edit this if you want to change the header of your email automation. Default "
+"will be"
+msgstr ""
+"ערוך זאת אם ברצונך לשנות את הכותרת של אוטומציית הדואר האלקטרוני שלך. ברירת "
+"המחדל תהיה"
+
+#: admin/templates/admin-email-settings-option.tpl.php:58
+#: admin/templates/email-settings-option.tpl.php:63
+msgid "Mail To"
+msgstr "דואר אל"
+
+#: admin/templates/admin-email-settings-option.tpl.php:60
+#: admin/templates/email-settings-option.tpl.php:66
+msgid ""
+"Add emails with comma separated.(You can add WPCargo Merge Tags)<br>\n"
+"\t\t\t\t\tsample_1@mail.com, @sample_2@mail.com"
+msgstr ""
+"הוספת מיילים עם הפרדת פסיקים. (ניתן להוסיף תגי מיזוג של "
+"WPCargo)<br>sample_1@mail.com, @sample_2 @ mail.com"
+
+#: admin/templates/admin-email-settings-option.tpl.php:64
+#: admin/templates/email-settings-option.tpl.php:83
+msgid "Subject:"
+msgstr "נושא:"
+
+#: admin/templates/admin-email-settings-option.tpl.php:67
+#: admin/templates/email-settings-option.tpl.php:86
+msgid "Email Subject"
+msgstr "נושא המייל"
+
+#: admin/templates/admin-email-settings-option.tpl.php:71
+#: admin/templates/email-settings-option.tpl.php:91
+msgid "Message Content:"
+msgstr "תוכן ההודעה:"
+
+#: admin/templates/admin-email-settings-option.tpl.php:81
+#: admin/templates/email-settings-option.tpl.php:104
+msgid "Footer:"
+msgstr "תחתונה"
+
+#: admin/templates/admin-print-label.tpl.php:5
+msgid "Accounts Copy"
+msgstr "העתק תיקי לקוחות"
+
+#: admin/templates/admin-print-label.tpl.php:6
+msgid "Consignee Copy"
+msgstr "העתק מיועץ"
+
+#: admin/templates/admin-print-label.tpl.php:7
+msgid "Shippers Copy"
+msgstr "שיפרס העתק"
+
+#: admin/templates/admin-print-label.tpl.php:35 templates/account.tpl.php:19
+msgid "Delivery Date"
+msgstr "תאריך הספקה"
+
+#: admin/templates/admin-print-label.tpl.php:65
+msgid "Shipper"
+msgstr "שולח"
+
+#: admin/templates/admin-print-label.tpl.php:67
+msgid "Consignee"
+msgstr "העתק מיועץ"
+
+#: admin/templates/admin-print-label.tpl.php:82
+msgid "Comment"
+msgstr "תגובה"
+
+#: admin/templates/assign-metabox.tpl.php:14
+msgid "Client"
+msgstr "לקוח"
+
+#: admin/templates/assign-metabox.tpl.php:17
+msgid "-- Select Client --"
+msgstr "--בחר לקוח--"
+
+#: admin/templates/assign-metabox.tpl.php:34
+#: admin/templates/shipment-metabox.tpl.php:11
+#: admin/templates/shipment-metabox.tpl.php:44
+#: admin/templates/shipment-metabox.tpl.php:73
+#: admin/templates/shipment-metabox.tpl.php:97
+#: admin/templates/shipment-metabox.tpl.php:129
+#: admin/templates/shipment-metabox.tpl.php:150
+msgid "-- Select One --"
+msgstr "--בחר אחד--"
+
+#: admin/templates/assign-metabox.tpl.php:43
+msgid "No agents found, please add agents "
+msgstr "לא נמצאו סוכנים, אנא הוסיפו סוכנים"
+
+#: admin/templates/assign-metabox.tpl.php:45
+#: admin/templates/shipment-metabox.tpl.php:21
+#: admin/templates/shipment-metabox.tpl.php:54
+#: admin/templates/shipment-metabox.tpl.php:83
+#: admin/templates/shipment-metabox.tpl.php:107
+#: admin/templates/shipment-metabox.tpl.php:139
+#: admin/templates/shipment-metabox.tpl.php:160
+msgid "here."
+msgstr "כאן."
+
+#: admin/templates/assign-metabox.tpl.php:47
+msgid " Make sure the role assign is \"WPCargo Agent\"."
+msgstr "ודא שהקצאת התפקיד היא \"סוכן WPCargo\"."
+
+#: admin/templates/assign-metabox.tpl.php:53
+msgid "Employee"
+msgstr "עובד"
+
+#: admin/templates/assign-metabox.tpl.php:56
+msgid "-- Select Employee --"
+msgstr "--בחר עובד--"
+
+#: admin/templates/email-settings-option.tpl.php:30
+msgid "Activate Client Email Notification?"
+msgstr "האם להפעיל הודעת דואר אלקטרוני ללקוח?"
+
+#: admin/templates/email-settings-option.tpl.php:71
+msgid "Cc"
+msgstr "העתק"
+
+#: admin/templates/email-settings-option.tpl.php:74
+#: admin/templates/email-settings-option.tpl.php:80
+msgid ""
+"Add emails with comma separated. ( sample_1@mail.com, @sample_2@mail.com )"
+msgstr ""
+"הוספת מיילים עם הפרדת פסיקים. (sample_1@mail.com, @sample_2 @ mail.com)"
+
+#: admin/templates/email-settings-option.tpl.php:78
+msgid "Bcc"
+msgstr "וסתר"
+
+#: admin/templates/history-map-settings.tpl.php:7
+msgid "Enable Shipment History Map"
+msgstr "הפוך מפת היסטוריית משלוחים לזמינה"
+
+#: admin/templates/history-map-settings.tpl.php:13
+msgid "Display Map in result page?"
+msgstr "האם להציג מפה בעמוד התוצאה?"
+
+#: admin/templates/history-map-settings.tpl.php:16
+msgid ""
+"Note: This option will take effect only in the result page when \"Shipment "
+"History Map\" option is enabled."
+msgstr ""
+"הערה: אפשרות זו תיכנס לתוקף רק בעמוד התוצאה כאשר האפשרות \"מפת היסטוריית "
+"משלוחים\" מאופשרת."
+
+#: admin/templates/history-map-settings.tpl.php:20
+msgid "Map Type"
+msgstr "סוג מפה"
+
+#: admin/templates/history-map-settings.tpl.php:23
+msgid "--Select Map Type--"
+msgstr "--בחר סוג מפה--"
+
+#: admin/templates/history-map-settings.tpl.php:24
+msgid "Terrain"
+msgstr "תוואי שטח"
+
+#: admin/templates/history-map-settings.tpl.php:25
+msgid "Satellite"
+msgstr "לוויין"
+
+#: admin/templates/history-map-settings.tpl.php:26
+msgid "Roadmap"
+msgstr "מפת הדרכים"
+
+#: admin/templates/history-map-settings.tpl.php:27
+msgid "Hybrid"
+msgstr "היברידי"
+
+#: admin/templates/history-map-settings.tpl.php:29
+msgid "note: Default is Terrain."
+msgstr "הערה: ברירת המחדל היא שטח."
+
+#: admin/templates/history-map-settings.tpl.php:33
+msgid "Zoom Level"
+msgstr "רמת זום"
+
+#: admin/templates/history-map-settings.tpl.php:36
+msgid "--Select Zoom Level--"
+msgstr "--בחר רמת זום--"
+
+#: admin/templates/history-map-settings.tpl.php:37
+msgid "World"
+msgstr "עולם"
+
+#: admin/templates/history-map-settings.tpl.php:38
+msgid "Landmass/continent"
+msgstr "יבשת"
+
+#: admin/templates/history-map-settings.tpl.php:39
+msgid "City"
+msgstr "עיר"
+
+#: admin/templates/history-map-settings.tpl.php:40
+msgid "Streets"
+msgstr "הרחובות"
+
+#: admin/templates/history-map-settings.tpl.php:41
+msgid "Buildings"
+msgstr "בניינים"
+
+#: admin/templates/history-map-settings.tpl.php:43
+msgid "note: Default is Streets."
+msgstr "הערה: ברירת המחדל היא רחובות."
+
+#: admin/templates/history-map-settings.tpl.php:47
+msgid "Google Map API Key"
+msgstr "מפתח ה-API של גוגל מפה"
+
+#: admin/templates/history-map-settings.tpl.php:50
+msgid "Please click here to get Google Map API Key"
+msgstr "אנא לחץ כאן כדי לקבל את מפתח ה-API של Google Map"
+
+#: admin/templates/history-map-settings.tpl.php:50
+msgid "Get API Key"
+msgstr "קבל מפתח API"
+
+#: admin/templates/history-map-settings.tpl.php:51
+msgid ""
+"Note: Google Map API Key needs to enable the following API's to make it work."
+msgstr ""
+"הערה: Google Map API מפתח צריך להפעיל את ה-API הבאים כדי לגרום לזה לעבוד."
+
+#: admin/templates/history-map-settings.tpl.php:53
+msgid "Places API"
+msgstr "מיתו את ה- API"
+
+#: admin/templates/history-map-settings.tpl.php:54
+msgid "Maps JavaScript API"
+msgstr "מפות API של JavaScript"
+
+#: admin/templates/history-map-settings.tpl.php:55
+msgid "Geolocation API"
+msgstr "מיקום"
+
+#: admin/templates/history-map-settings.tpl.php:56
+msgid "Geocoding API"
+msgstr "API של קידוד גיאוגרפי"
+
+#: admin/templates/history-map-settings.tpl.php:61
+msgid "Longitude"
+msgstr "קו אורך"
+
+#: admin/templates/history-map-settings.tpl.php:67
+msgid "Latitude"
+msgstr "קו רוחב"
+
+#: admin/templates/history-map-settings.tpl.php:73
+msgid "Country Restriction"
+msgstr "הגבלת מדינה"
+
+#: admin/templates/history-map-settings.tpl.php:77
+#, php-format
+msgid ""
+"Please enter %s compatible country code. This is to limit the results for "
+"you chosen country only."
+msgstr "נא הזן %s מדינה תואם. זה כדי להגביל את התוצאות עבור המדינה שבחרת בלבד."
+
+#: admin/templates/history-map-settings.tpl.php:83
+msgid "Google Map Label Color"
+msgstr "גוגל מפה תווית צבע"
+
+#: admin/templates/history-map-settings.tpl.php:89
+msgid "Google Map Label Size"
+msgstr "גוגל מפת התווית גודל"
+
+#: admin/templates/history-map-settings.tpl.php:94
+msgid "Google Map Marker"
+msgstr "גוגל מפת מרקר"
+
+#: admin/templates/history-map-settings.tpl.php:96
+#: admin/templates/settings-option.tpl.php:33
+msgid "Upload Logo"
+msgstr "העלה לוגו"
+
+#: admin/templates/history-map-settings.tpl.php:128
+msgid "Note: Marker must be 55px X 55px dimension for best output."
+msgstr "הערה: סמן חייב להיות 55px מימד px X 55 עבור התפוקה הטובה ביותר."
+
+#: admin/templates/history-map-settings.tpl.php:131
+msgid "Save Map Settings"
+msgstr "שמור הגדרות מפה"
+
+#: admin/templates/package-metabox.tpl.php:34
+#: admin/templates/package-metabox.tpl.php:49
+#: admin/templates/shipment-history-editable.tpl.php:35
+msgid "Delete"
+msgstr "מחק"
+
+#: admin/templates/package-metabox.tpl.php:56
+msgid "Add Package"
+msgstr "הוסף חבילה"
+
+#: admin/templates/print-details-shipment.tpl.php:27
+#: templates/result-form-shipment-details.tpl.php:24
+msgid "Shipment Information"
+msgstr "מידע למשלוח"
+
+#: admin/templates/print-details-shipment.tpl.php:29
+#: templates/result-form-shipment-details.tpl.php:26
+msgid "Origin:"
+msgstr "מקור"
+
+#: admin/templates/print-details-shipment.tpl.php:33
+#: templates/result-form-shipment-details.tpl.php:30
+msgid "Package:"
+msgstr "חבילה:"
+
+#: admin/templates/print-details-shipment.tpl.php:37
+#: templates/result-form-shipment-details.tpl.php:34
+msgid "Status:"
+msgstr "סטטוס:"
+
+#: admin/templates/print-details-shipment.tpl.php:43
+#: templates/result-form-shipment-details.tpl.php:38
+msgid "Destination:"
+msgstr "יעד"
+
+#: admin/templates/print-details-shipment.tpl.php:47
+#: templates/result-form-shipment-details.tpl.php:42
+msgid "Carrier:"
+msgstr "נושא"
+
+#: admin/templates/print-details-shipment.tpl.php:51
+#: templates/result-form-shipment-details.tpl.php:46
+msgid "Type of Shipment:"
+msgstr "סוג המשלוח:"
+
+#: admin/templates/print-details-shipment.tpl.php:55
+#: templates/result-form-shipment-details.tpl.php:50
+msgid "Weight:"
+msgstr "משקל:"
+
+#: admin/templates/print-details-shipment.tpl.php:59
+#: templates/result-form-shipment-details.tpl.php:54
+msgid "Shipment Mode:"
+msgstr "מצב משלוח:"
+
+#: admin/templates/print-details-shipment.tpl.php:63
+#: templates/result-form-shipment-details.tpl.php:58
+msgid "Carrier Reference No.:"
+msgstr "מספר אסמכתא של צליל תקשורת:"
+
+#: admin/templates/print-details-shipment.tpl.php:67
+#: templates/result-form-shipment-details.tpl.php:62
+msgid "Product:"
+msgstr "מוצר:"
+
+#: admin/templates/print-details-shipment.tpl.php:71
+#: templates/result-form-shipment-details.tpl.php:66
+msgid "Qty:"
+msgstr "כמות:"
+
+#: admin/templates/print-details-shipment.tpl.php:75
+#: templates/result-form-shipment-details.tpl.php:70
+msgid "Payment Mode:"
+msgstr "מצב תשלום:"
+
+#: admin/templates/print-details-shipment.tpl.php:79
+#: templates/result-form-shipment-details.tpl.php:74
+msgid "Total Freight:"
+msgstr "סה כ מטענים:"
+
+#: admin/templates/print-details-shipment.tpl.php:83
+#: templates/result-form-shipment-details.tpl.php:78
+msgid "Expected Delivery Date:"
+msgstr "תאריך מסירה צפוי:"
+
+#: admin/templates/print-details-shipment.tpl.php:87
+#: templates/result-form-shipment-details.tpl.php:82
+msgid "Departure Time:"
+msgstr "זמן ההמראה:"
+
+#: admin/templates/print-details-shipment.tpl.php:91
+#: templates/result-form-shipment-details.tpl.php:86
+msgid "Pick-up Date:"
+msgstr "תאריך איסוף:"
+
+#: admin/templates/print-details-shipment.tpl.php:95
+#: templates/result-form-shipment-details.tpl.php:90
+msgid "Pick-up Time:"
+msgstr "זמן האיסוף:"
+
+#: admin/templates/print-details-shipment.tpl.php:99
+#: templates/result-form-shipment-details.tpl.php:94
+msgid "Comments:"
+msgstr "תגובות:"
+
+#: admin/templates/receiver-metabox.tpl.php:2
+msgid "Receiver Details"
+msgstr "פרטי המקלט:"
+
+#: admin/templates/settings-fields-option.tpl.php:2
+msgid "Add Type of Shipment"
+msgstr "הוסף סוג משלוח"
+
+#: admin/templates/settings-fields-option.tpl.php:4
+msgid "Ex. Shipment 1, Shipment 2, Shipment 3"
+msgstr ". לשעבר משלוח 1, משלוח 2, משלוח 3"
+
+#: admin/templates/settings-fields-option.tpl.php:5
+#: admin/templates/settings-fields-option.tpl.php:12
+#: admin/templates/settings-fields-option.tpl.php:19
+#: admin/templates/settings-fields-option.tpl.php:27
+#: admin/templates/settings-fields-option.tpl.php:34
+#: admin/templates/settings-option.tpl.php:27
+msgid "Must be comma separated"
+msgstr "חייב להיות מופרד באמצעות פסיקים"
+
+#: admin/templates/settings-fields-option.tpl.php:9
+msgid "Add Shipment Mode"
+msgstr "הוסף מצב משלוח"
+
+#: admin/templates/settings-fields-option.tpl.php:11
+msgid "Ex. Shipment Mode 1, Shipment Mode 2, Shipment Mode 3"
+msgstr "לשעבר מצב משלוח 1, מצב משלוח 2, מצב משלוח 3"
+
+#: admin/templates/settings-fields-option.tpl.php:16
+msgid "Add Shipment Location"
+msgstr "הוסף מיקום משלוח"
+
+#: admin/templates/settings-fields-option.tpl.php:18
+msgid "Ex. Afghanistan, Albania, Algeria"
+msgstr "אקס. אפגניסטן, אלבניה, אלג'יריה"
+
+#: admin/templates/settings-fields-option.tpl.php:20
+msgid ""
+"Note: If you have WPCargo Custom Field Add-on installed, go to Manage form "
+"Fields to update list of locations."
+msgstr ""
+"הערה: אם מותקנת במחשב הרחבה מותאמת אישית של WPCargo, עבור אל ' ניהול שדות "
+"טופס ' כדי לעדכן רשימת מיקומים."
+
+#: admin/templates/settings-fields-option.tpl.php:24
+msgid "Add Shipment Carrier"
+msgstr "הוסף מוביל משלוחים"
+
+#: admin/templates/settings-fields-option.tpl.php:26
+msgid "Ex. Shipment Carrier 1, Shipment Carrier 2, Shipment Carrier 3"
+msgstr ". לשעבר מוביל משלוחים 1, מוביל משלוחים 2, מוביל משלוחים 3"
+
+#: admin/templates/settings-fields-option.tpl.php:31
+msgid "Add Shipment Payment Mode"
+msgstr "הוסף מצב תשלום משלוח"
+
+#: admin/templates/settings-fields-option.tpl.php:33
+msgid "Ex. Payment Mode 1, Payment Mode 2, Payment Mode 3"
+msgstr "לשעבר מצב תשלום 1, מצב תשלום 2, מצב תשלום 3"
+
+#: admin/templates/settings-option.tpl.php:26
+msgid "Ex. Shipment Status 1, Shipment Status 2, Shipment Status 3"
+msgstr "לשעבר סטטוס משלוח 1, סטטוס משלוח 2, מצב משלוח 3"
+
+#: admin/templates/settings-option.tpl.php:31
+msgid "Add Shipment Logo"
+msgstr "הוסף סמל משלוח"
+
+#: admin/templates/settings-option.tpl.php:66
+msgid "Display Barcode?"
+msgstr "הצגת ברקוד?"
+
+#: admin/templates/settings-option.tpl.php:69
+msgid "Check if you want to display barcode at the results."
+msgstr "בדוק אם ברצונך להציג את הברקוד בתוצאות."
+
+#: admin/templates/settings-option.tpl.php:73
+msgid "Track Page Settings"
+msgstr "מעקב אחר הגדרות עמוד"
+
+#: admin/templates/settings-option.tpl.php:77
+msgid "--Select Page--"
+msgstr "--בחר עמוד--"
+
+#: admin/templates/settings-option.tpl.php:82
+msgid "Select a page to insert"
+msgstr "בחר עמוד להוספה"
+
+#: admin/templates/settings-option.tpl.php:85
+msgid "Edit Page"
+msgstr "עריכת דף"
+
+#: admin/templates/settings-option.tpl.php:86
+msgid "View Page"
+msgstr "לצפייה בעמוד"
+
+#: admin/templates/settings-option.tpl.php:98
+msgid "Print Settings"
+msgstr "הגדרות הדפסה"
+
+#: admin/templates/settings-option.tpl.php:101
+msgid "Font family"
+msgstr "משפחת פונטים"
+
+#: admin/templates/settings-option.tpl.php:104
+msgid "Default"
+msgstr "ברירת מחדל"
+
+#: admin/templates/settings-option.tpl.php:112
+msgid "Font Size"
+msgstr "גודל פונט"
+
+#: admin/templates/settings-option.tpl.php:118
+msgid "Barcode Size"
+msgstr "גודל ברקוד"
+
+#: admin/templates/settings-option.tpl.php:127
+msgid "Package Calculation Settings"
+msgstr "הגדרות חישוב חבילה"
+
+#: admin/templates/settings-option.tpl.php:130
+msgid "Dimension Divisor (cm)"
+msgstr "מחלק ממדים (cm)"
+
+#: admin/templates/settings-option.tpl.php:136
+msgid "Dimension Divisor (inc)"
+msgstr "מחלק ממדים (inc)"
+
+#: admin/templates/settings-option.tpl.php:144
+msgid "Note: These values are used in calculating Volumetric Weight."
+msgstr "הערה: ערכים אלה משמשים לחישוב משקל נפחי."
+
+#: admin/templates/settings-option.tpl.php:145
+msgid "Formula"
+msgstr "נוסחא"
+
+#: admin/templates/settings-option.tpl.php:145
+msgid "Volumetric Weight."
+msgstr "משקל נפחי."
+
+#: admin/templates/settings-option.tpl.php:145 includes/packages.php:159
+msgid "Length"
+msgstr "אורך"
+
+#: admin/templates/settings-option.tpl.php:145 includes/packages.php:165
+msgid "Width"
+msgstr "רוחב"
+
+#: admin/templates/settings-option.tpl.php:145 includes/packages.php:171
+msgid "Height"
+msgstr "גובה"
+
+#: admin/templates/settings-option.tpl.php:145
+msgid "Dimension Divisor"
+msgstr "מחלק ממדים"
+
+#: admin/templates/settings-option.tpl.php:149
+msgid "Shipment Number Format"
+msgstr "תבנית מספר משלוח"
+
+#: admin/templates/settings-option.tpl.php:152
+msgid "Enable Restrict Duplicate Shipment Number"
+msgstr "הפוך הגבל מספר משלוח כפול לזמין"
+
+#: admin/templates/settings-option.tpl.php:158
+msgid "Enable Autogenerate Shipment Number?"
+msgstr "זהו מספר משלוח קיים."
+
+#: admin/templates/settings-option.tpl.php:164
+msgid "Shipment Number Prefix"
+msgstr "קידומת מספר משלוח"
+
+#: admin/templates/settings-option.tpl.php:170
+msgid "Shipment Number Suffix"
+msgstr "סיומת מספר משלוח"
+
+#: admin/templates/settings-option.tpl.php:177
+msgid "Shipment Number of Digits"
+msgstr "מספר משלוח של ספרות"
+
+#: admin/templates/settings-option.tpl.php:181
+msgid ""
+"This will be the number of digits that autocreate shipment title. Note: The "
+"default number of digits is 12 and minumum of 4 digits"
+msgstr ""
+"זה יהיה מספר הספרות שיוצרות אוטומטית כותרת משלוח. הערה: מספר ברירת המחדל של "
+"ספרות הוא 12 ומינומי של 4 ספרות"
+
+#: admin/templates/settings-option.tpl.php:185
+msgid "Base color"
+msgstr "צבע בסיס"
+
+#: admin/templates/settings-option.tpl.php:191
+msgid "TAX(%)"
+msgstr "מס (%)"
+
+#: admin/templates/settings-option.tpl.php:194
+msgid ""
+"Note: This setting is optional, some of the WPCargo add on plugins use this "
+"data."
+msgstr ""
+"הערה: הגדרה זו היא אופציונלית, חלק מיישומי ה-WPCargo הנוספים בתוספים משתמשים "
+"בנתונים אלה."
+
+#: admin/templates/settings-option.tpl.php:198
+msgid "Shipment History Settings"
+msgstr "הגדרות היסטוריית משלוחים"
+
+#: admin/templates/settings-option.tpl.php:201
+msgid "Display Shipment History in Invoice"
+msgstr "הצגת היסטוריית משלוחים בחשבונית"
+
+#: admin/templates/settings-option.tpl.php:207
+msgid "Enable User Timezone"
+msgstr "הפיכת אזור משתמש לזמין"
+
+#: admin/templates/settings-option.tpl.php:213
+msgid "Allow Roles to update shipment history"
+msgstr "אפשר לתפקידים לעדכן היסטוריית משלוחים"
+
+#: admin/templates/settings-option.tpl.php:230
+msgid "Assign Shipment Email Settings"
+msgstr "הקצאת הגדרות דואר אלקטרוני של משלוח"
+
+#: admin/templates/settings-option.tpl.php:233
+msgid "Disable Email for Employee?"
+msgstr "האם להשבית דואר אלקטרוני עבור עובד?"
+
+#: admin/templates/settings-option.tpl.php:239
+msgid "Disable Email for Agent?"
+msgstr "האם להשבית דואר אלקטרוני עבור הסוכן?"
+
+#: admin/templates/settings-option.tpl.php:245
+msgid "Disable Email for Client?"
+msgstr "האם להשבית דואר אלקטרוני עבור לקוח?"
+
+#: admin/templates/shipment-history.tpl.php:33
+msgid "No Shipment History Found."
+msgstr "לא נמצאו היסטוריית משלוחים."
+
+#: admin/templates/shipment-metabox.tpl.php:20
+#: admin/templates/shipment-metabox.tpl.php:53
+#: admin/templates/shipment-metabox.tpl.php:82
+#: admin/templates/shipment-metabox.tpl.php:106
+#: admin/templates/shipment-metabox.tpl.php:138
+#: admin/templates/shipment-metabox.tpl.php:159
+msgid "No Selection setup, Please add selection"
+msgstr "אין הגדרת בחירה, נא הוסף בחירה"
+
+#: admin/templates/shipment-metabox.tpl.php:171
+msgid "Pickup Time :"
+msgstr "זמן האיסוף:"
+
+#: admin/templates/shipper-metabox.tpl.php:2
+msgid "Shipper Details"
+msgstr "פרטי השולח:"
+
+#: admin/templates/user-profile.tpl.php:1
+msgid "User Profile"
+msgstr "פרופיל משתמש"
+
+#: admin/templates/user-profile.tpl.php:4
+msgid "Timezone"
+msgstr "זמן איזור"
+
+#: admin/templates/user-profile.tpl.php:9
+msgid ""
+"Choose user timezone. This will override general settings timezone for user."
+msgstr ""
+"בחר אזור זמן של משתמש. פעולה זו תעקוף אזור זמן כללי של הגדרות עבור המשתמש."
+
+#: admin/templates/user-profile.tpl.php:13
+msgid "Company Logo"
+msgstr "לוגו החברה"
+
+#: admin/templates/user-profile.tpl.php:21
+msgid "Upload Company Logo"
+msgstr "העלה לוגו חברה "
+
+#: admin/templates/user-profile.tpl.php:25
+msgid "Business Registration #"
+msgstr "הרשמה לעסקים #"
+
+#: admin/templates/user-profile.tpl.php:31
+msgid "GST Account #"
+msgstr "חשבון GT #"
+
+#: admin/templates/user-profile.tpl.php:37
+msgid "Minimum Notification Unit"
+msgstr "יחידת הודעות מינימלית"
+
+#: classes/class-wpc-print.php:35 classes/class-wpc-print.php:39
+msgid "Print Invoice"
+msgstr "הדפס מפרט"
+
+#: includes/packages.php:24
+msgid "Total Volume Weight :"
+msgstr "סה כ משקל הנפח:"
+
+#: includes/packages.php:27
+msgid "Total Actual Weight :"
+msgstr "סה כ משקל בפועל:"
+
+#: includes/packages.php:139
+msgid "Qty."
+msgstr "כמות."
+
+#: includes/packages.php:145
+msgid "Piece Type"
+msgstr "סוג הכלי"
+
+#: includes/packages.php:151
+msgid "Description"
+msgstr "תיאור"
+
+#: includes/packages.php:178
+msgid "Weight "
+msgstr "שקל"
+
+#: templates/account-cf.tpl.php:29 templates/account-cf.tpl.php:47
+#: templates/account.tpl.php:25
+msgid "View More"
+msgstr "ראה עוד"
+
+#: templates/account-cf.tpl.php:32 templates/account.tpl.php:1
+msgid "Welcome"
+msgstr "ברוכים הבאים"
+
+#: templates/account-cf.tpl.php:34 templates/account.tpl.php:3
+msgid "Shipment List"
+msgstr "רשימת משלוחים"
+
+#: templates/account-cf.tpl.php:39 templates/account.tpl.php:18
+msgid "Tracking #"
+msgstr "מעקב #"
+
+#: templates/account-cf.tpl.php:67 templates/account.tpl.php:42
+msgid "View Details"
+msgstr "הצג פרטים"
+
+#: templates/account-cf.tpl.php:72
+msgid "No Shipment found!"
+msgstr "לא נמצא משלוח!"
+
+#: templates/account.tpl.php:6
+msgid "Sort"
+msgstr "מיון"
+
+#: templates/account.tpl.php:8
+msgid "All"
+msgstr "הכל"
+
+#: templates/account.tpl.php:9 templates/account.tpl.php:40
+msgid "Owned"
+msgstr "רכשתי"
+
+#: templates/account.tpl.php:10 templates/account.tpl.php:40
+msgid "Receivable"
+msgstr "חשבונות"
+
+#: templates/account.tpl.php:20
+msgid "Product Qty."
+msgstr "כמות מוצרים"
+
+#: templates/account.tpl.php:23
+msgid "Designation"
+msgstr "ייעוד"
+
+#: templates/account.tpl.php:49
+msgid "No shipment found!"
+msgstr "לא נמצא משלוח!"
+
+#: templates/package.tpl.php:42
+msgid "Data empty"
+msgstr "הנתונים ריקים"
+
+#: templates/report.tpl.php:3
+msgid "Shipper Name:"
+msgstr "שם השולח"
+
+#: templates/report.tpl.php:6
+msgid "Registered Shipper:"
+msgstr "מוביל רשום:"
+
+#: templates/report.tpl.php:8
+msgid "-- Registered Shipper --"
+msgstr "--מוביל רשום-"
+
+#: templates/report.tpl.php:15
+msgid "Date Range"
+msgstr "טווח תאריכים"
+
+#: templates/report.tpl.php:17
+msgid "From : "
+msgstr "מאת:"
+
+#: templates/report.tpl.php:19
+msgid "To : "
+msgstr "ל: "
+
+#: templates/report.tpl.php:27
+msgid "Choose Status"
+msgstr "בחר סטטוס"
+
+#: templates/report.tpl.php:37
+msgid "Select Option"
+msgstr "בחר אפשרות"
+
+#: templates/report.tpl.php:73
+msgid "Generate Report"
+msgstr "הפק דוח"
+
+#: templates/report.tpl.php:74
+msgid ""
+"Note: This will take a couple of seconds to generate reports, wait for a pop "
+"up message to save your report."
+msgstr ""
+"הערה: פעולה זו תיקח כמה שניות להפקת דוחות, המתן להודעה מוקפצת כדי לשמור את "
+"הדוח."
+
+#: templates/result-form-shipper-details.tpl.php:13
+msgid "Shipper Information"
+msgstr "מידע אודות השולח"
+
+#: templates/result-form-shipper-details.tpl.php:20
+msgid "Receiver Information"
+msgstr "מידע אודות המקלט"
+
+#: templates/result-form.tpl.php:27
+msgid "No results found!"
+msgstr "לא נמצאו תוצאות"
+
+#: templates/track-form.tpl.php:69
+msgid "Enter the Consignment No."
+msgstr "היכנס/י למשלוח"
+
+#: templates/track-form.tpl.php:73
+msgid "Enter Tracking Number"
+msgstr "הזן מספר מעקב"
+
+#: templates/track-form.tpl.php:74
+msgid "TRACK RESULT"
+msgstr "תוצאת מעקב"
+
+#: templates/track-form.tpl.php:76
+msgid "Ex: 12345"
+msgstr "לשעבר: 12345"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wptaskforce.com/"
+msgstr "http://wptaskforce.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"WPCargo is a WordPress plug-in designed to provide ideal technology solution "
+"for your Cargo and Courier Operations. Whether you are an exporter, freight "
+"forwarder, importer, supplier, customs broker, overseas agent, or warehouse "
+"operator, WPCargo helps you to increase the visibility, efficiency, and "
+"quality services of your cargo and shipment business."
+msgstr ""
+"WPCargo טענים הוא תוסף WordPress שנועד לספק פתרון הטכנולוגיה האידיאלית עבור "
+"המטען שלך מבצעים ושליחים. בין אם אתה יצואנית, הובלה מטענים, יבואן, הספק, "
+"ברוקר מכס, סוכן בחו ל, או מפעיל מחסן, WPCargo מסייע לך להגדיל את הניראות, "
+"יעילות, ושירותים איכותיים של המטען שלך ואת העסק המשלוח."
+
+#. Author of the plugin/theme
+msgid "<a href=\"http://www.wptaskforce.com/\">WPTaskForce</a>"
+msgstr "<a href=\"http://www.wptaskforce.com/\">כוח משימות</a>"

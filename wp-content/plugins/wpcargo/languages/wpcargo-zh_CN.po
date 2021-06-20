@@ -1,0 +1,1631 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WPCargo\n"
+"POT-Creation-Date: 2021-02-19 11:02+0800\n"
+"PO-Revision-Date: 2021-02-19 11:03+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wpcargo.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: admin/classes/class-wpc-admin-scripts.php:19
+#: admin/templates/package-metabox.tpl.php:70
+#: admin/templates/shipment-history-editable.tpl.php:61
+msgid "Are you sure you want to delete this element?"
+msgstr "确实要删除此元素吗？"
+
+#: admin/classes/class-wpc-admin-scripts.php:20
+msgid "--Please Select Client--"
+msgstr "-- 请选择客户端 - -"
+
+#: admin/classes/class-wpc-admin-settings.php:58 admin/includes/hooks.php:223
+msgid "Settings"
+msgstr "设置"
+
+#: admin/classes/class-wpc-admin-settings.php:67
+msgid "Get Started Here"
+msgstr "从这里开始"
+
+#: admin/classes/class-wpc-admin-settings.php:68
+msgid "Documentation"
+msgstr "文档"
+
+#: admin/classes/class-wpc-admin-settings.php:73
+msgid "Add Ons"
+msgstr "附加组件"
+
+#: admin/classes/class-wpc-admin-settings.php:74
+msgid "More Info"
+msgstr "更多信息"
+
+#: admin/classes/class-wpc-admin-settings.php:79
+msgid "Facebook"
+msgstr "脸书"
+
+#: admin/classes/class-wpc-admin-settings.php:80
+msgid "Like our page"
+msgstr "喜欢我们的页面"
+
+#: admin/classes/class-wpc-admin-settings.php:85
+msgid "Get Support"
+msgstr "获取支持"
+
+#: admin/classes/class-wpc-admin-settings.php:86
+msgid "Contact Us"
+msgstr "联系我们"
+
+#: admin/classes/class-wpc-admin-settings.php:91
+msgid "Get Website Hosting"
+msgstr "获取网站托管"
+
+#: admin/classes/class-wpc-admin-settings.php:92
+msgid "Free Website Design"
+msgstr "免费网站设计"
+
+#: admin/classes/class-wpc-custom-table.php:79
+msgid "No Category"
+msgstr "没有类别"
+
+#: admin/classes/class-wpc-custom-table.php:84
+msgid "Invoice"
+msgstr "发票"
+
+#: admin/classes/class-wpc-custom-table.php:85
+msgid "Waybill"
+msgstr "运单"
+
+#: admin/classes/class-wpc-custom-table.php:140
+msgid "Update Shipment Status"
+msgstr "更新装运状态"
+
+#: admin/classes/class-wpc-custom-table.php:143
+msgid "Current City"
+msgstr "当前居住城市"
+
+#: admin/classes/class-wpc-custom-table.php:146
+msgid "--Select Status--"
+msgstr "--选择状态-"
+
+#: admin/classes/class-wpc-custom-table.php:154
+msgid "No Shipment Status Found."
+msgstr "未找到发货状态。"
+
+#: admin/classes/class-wpc-custom-table.php:154
+#: admin/templates/settings-option.tpl.php:24
+msgid "Add Shipment Status"
+msgstr "添加装运状态"
+
+#: admin/classes/class-wpc-custom-table.php:156
+#: admin/includes/functions.php:482
+msgid "Remarks"
+msgstr "备注"
+
+#: admin/classes/class-wpc-custom-table.php:164
+msgid "Select Agent"
+msgstr "选择代理"
+
+#: admin/classes/class-wpc-custom-table.php:166 admin/includes/hooks.php:249
+msgid "— No Change —"
+msgstr "— 没有变化 —"
+
+#: admin/classes/class-wpc-export-extend.php:58
+msgid "Purchase"
+msgstr "购买"
+
+#: admin/classes/class-wpc-export-extend.php:59
+msgid "If you want a more comprehensive and customizable report, purchase"
+msgstr "如果你想要一个更全面和可定制的报告，购买"
+
+#: admin/classes/class-wpc-export-extend.php:151
+msgid "Shipment Reports"
+msgstr "发货报告"
+
+#: admin/classes/class-wpc-export.php:8 admin/includes/functions.php:208
+#: admin/includes/hooks.php:511 admin/templates/shipper-metabox.tpl.php:7
+msgid "Shipper Name"
+msgstr "收货人名字"
+
+#: admin/classes/class-wpc-export.php:13 admin/classes/class-wpc-export.php:33
+#: admin/classes/class-wpc-export.php:43 admin/includes/hooks.php:512
+#: admin/includes/hooks.php:530 admin/templates/receiver-metabox.tpl.php:14
+#: admin/templates/shipper-metabox.tpl.php:11
+msgid "Phone Number"
+msgstr "电话号码"
+
+#: admin/classes/class-wpc-export.php:18
+#: admin/templates/print-details-shipper.tpl.php:14
+msgid "Shipper Address"
+msgstr "发货人地址"
+
+#: admin/classes/class-wpc-export.php:23 admin/includes/functions.php:105
+msgid "Shipper Email"
+msgstr "发货人电子邮件"
+
+#: admin/classes/class-wpc-export.php:28 admin/includes/functions.php:214
+#: admin/includes/hooks.php:529 admin/templates/receiver-metabox.tpl.php:8
+msgid "Receiver Name"
+msgstr "接收方名称"
+
+#: admin/classes/class-wpc-export.php:38
+#: admin/templates/print-details-shipper.tpl.php:22
+msgid "Receiver Address"
+msgstr "接收方地址："
+
+#: admin/classes/class-wpc-export.php:48 admin/includes/functions.php:106
+msgid "Receiver Email"
+msgstr "接收电子邮件地址"
+
+#: admin/classes/class-wpc-export.php:53
+#: admin/templates/assign-metabox.tpl.php:27
+msgid "Agent Name"
+msgstr "代理名称"
+
+#: admin/classes/class-wpc-export.php:58 admin/includes/functions.php:514
+#: admin/templates/admin-print-label.tpl.php:85
+#: admin/templates/shipment-metabox.tpl.php:7
+msgid "Type of Shipment"
+msgstr "装运类型"
+
+#: admin/classes/class-wpc-export.php:63 admin/includes/functions.php:515
+#: admin/templates/admin-print-label.tpl.php:46
+#: admin/templates/shipment-metabox.tpl.php:32
+msgid "Courier"
+msgstr "配送员"
+
+#: admin/classes/class-wpc-export.php:68 admin/includes/functions.php:517
+#: admin/templates/admin-print-label.tpl.php:94
+#: admin/templates/shipment-metabox.tpl.php:40
+msgid "Mode"
+msgstr "模式"
+
+#: admin/classes/class-wpc-export.php:73 admin/includes/functions.php:522
+#: admin/templates/admin-print-label.tpl.php:92
+#: admin/templates/settings-option.tpl.php:145
+#: admin/templates/shipment-metabox.tpl.php:65
+msgid "Quantity"
+msgstr "数量"
+
+#: admin/classes/class-wpc-export.php:78 admin/includes/functions.php:523
+#: admin/templates/admin-print-label.tpl.php:91
+#: admin/templates/shipment-metabox.tpl.php:89
+msgid "Total Freight"
+msgstr "货运总额"
+
+#: admin/classes/class-wpc-export.php:83 admin/includes/functions.php:516
+#: admin/templates/admin-print-label.tpl.php:54
+#: admin/templates/shipment-metabox.tpl.php:114
+msgid "Carrier Reference No."
+msgstr "载波编号"
+
+#: admin/classes/class-wpc-export.php:88 admin/includes/functions.php:525
+#: admin/templates/admin-print-label.tpl.php:40
+#: admin/templates/shipment-metabox.tpl.php:125
+msgid "Origin"
+msgstr "起源"
+
+#: admin/classes/class-wpc-export.php:93 admin/includes/functions.php:526
+#: admin/templates/admin-print-label.tpl.php:29
+#: admin/templates/shipment-metabox.tpl.php:167
+msgid "Pickup Date"
+msgstr "自取日期"
+
+#: admin/classes/class-wpc-export.php:98 admin/includes/functions.php:112
+msgid "Shipment Status"
+msgstr "发货状态"
+
+#: admin/classes/class-wpc-export.php:103
+#: admin/templates/shipment-metabox.tpl.php:179
+msgid "Comments"
+msgstr "评论"
+
+#: admin/classes/class-wpc-export.php:108 admin/includes/functions.php:521
+#: admin/templates/admin-print-label.tpl.php:88
+#: admin/templates/shipment-metabox.tpl.php:28
+msgid "Weight"
+msgstr "重量"
+
+#: admin/classes/class-wpc-export.php:113
+#: admin/classes/class-wpc-metabox.php:100 admin/includes/functions.php:519
+#: admin/templates/admin-print-label.tpl.php:86
+#: admin/templates/shipment-metabox.tpl.php:36 templates/package.tpl.php:2
+msgid "Packages"
+msgstr "软件包"
+
+#: admin/classes/class-wpc-export.php:118 admin/includes/functions.php:520
+#: admin/templates/admin-print-label.tpl.php:87
+#: admin/templates/shipment-metabox.tpl.php:61
+msgid "Product"
+msgstr "产品"
+
+#: admin/classes/class-wpc-export.php:123 admin/includes/functions.php:524
+#: admin/templates/admin-print-label.tpl.php:93
+#: admin/templates/shipment-metabox.tpl.php:69
+msgid "Payment Mode"
+msgstr "付款方式"
+
+#: admin/classes/class-wpc-export.php:128 admin/includes/functions.php:518
+#: admin/templates/admin-print-label.tpl.php:51
+#: admin/templates/shipment-metabox.tpl.php:93
+msgid "Carrier"
+msgstr "运送人"
+
+#: admin/classes/class-wpc-export.php:133 admin/includes/functions.php:528
+#: admin/templates/admin-print-label.tpl.php:57
+#: admin/templates/shipment-metabox.tpl.php:118
+msgid "Departure Time"
+msgstr "出发时间"
+
+#: admin/classes/class-wpc-export.php:138 admin/includes/functions.php:527
+#: admin/templates/admin-print-label.tpl.php:43
+#: admin/templates/shipment-metabox.tpl.php:146
+msgid "Destination"
+msgstr "目的地"
+
+#: admin/classes/class-wpc-export.php:143 admin/includes/functions.php:529
+#: admin/templates/admin-print-label.tpl.php:32
+msgid "Pickup Time"
+msgstr "自取时间"
+
+#: admin/classes/class-wpc-export.php:148 admin/includes/functions.php:530
+#: admin/templates/shipment-metabox.tpl.php:175
+msgid "Expected Delivery Date"
+msgstr "预计交货日期"
+
+#: admin/classes/class-wpc-export.php:153
+msgid "History"
+msgstr "历史"
+
+#: admin/classes/class-wpc-export.php:345
+msgid "No Result Found!"
+msgstr "找不到您要的结果！"
+
+#: admin/classes/class-wpc-metabox.php:47
+msgid "Current Status"
+msgstr "当前状态"
+
+#: admin/classes/class-wpc-metabox.php:84
+#: templates/result-shipment-history.tpl.php:2
+msgid "Shipment History"
+msgstr "装运历史记录"
+
+#: admin/classes/class-wpc-metabox.php:91
+msgid "Assign shipment to"
+msgstr "将货件分配给"
+
+#: admin/classes/class-wpc-mp-settings.php:12
+#: admin/classes/class-wpc-mp-settings.php:131
+msgid "Multiple Package Settings"
+msgstr "多个包设置"
+
+#: admin/classes/class-wpc-mp-settings.php:25
+msgid "Enable Multiple Package on Admin?"
+msgstr "在管理员上启用多个包？"
+
+#: admin/classes/class-wpc-mp-settings.php:32
+msgid "Enable Multiple Package on Results?"
+msgstr "在结果上启用多个包？"
+
+#: admin/classes/class-wpc-mp-settings.php:39
+msgid "Enable Dimension Unit?"
+msgstr "启用尺寸单位？"
+
+#: admin/classes/class-wpc-mp-settings.php:46
+msgid "Dimension Unit"
+msgstr "尺寸单位"
+
+#: admin/classes/class-wpc-mp-settings.php:53
+msgid "Weight Unit"
+msgstr "重量单位"
+
+#: admin/classes/class-wpc-mp-settings.php:60
+msgid "Piece Type Selection"
+msgstr "件类型选择"
+
+#: admin/classes/class-wpc-mp-settings.php:70
+msgid ""
+"If checked you will enable the multiple package on your shipment admin "
+"dashboard."
+msgstr "如果选中，您将在货件管理仪表板上启用多个包。"
+
+#: admin/classes/class-wpc-mp-settings.php:77
+msgid ""
+"If checked you will enable the multiple package on your shipment results."
+msgstr "如果选中，您将在货件结果上启用多个包裹。"
+
+#: admin/classes/class-wpc-mp-settings.php:84
+msgid "If checked you will enable the dimension unit."
+msgstr "如果选中，您将启用尺寸单位。"
+
+#: admin/classes/class-wpc-mp-settings.php:91
+msgid ""
+"This will be display in the package Dimension. Example: mm, cm, inch, etc. "
+"The default is cm."
+msgstr "这将显示在包维度中。示例：毫米、厘米、英寸等。默认值为 cm。"
+
+#: admin/classes/class-wpc-mp-settings.php:98
+msgid ""
+"This will be display in the package Weight. Example: lbs, g, gr, kg, etc. "
+"The default is lbs."
+msgstr "这将显示在包装重量中。例如：磅、g、gr、kg 等。默认值为磅。"
+
+#: admin/classes/class-wpc-mp-settings.php:105
+msgid ""
+"This will be the selection for the Piece Type for the Package Information "
+"section. Comma separated ( Ex. Pallet, Carton, Crate, Loose, Others)"
+msgstr ""
+"这将是\"包装信息\"部分的\"件类型\"部分的选择。逗号分离（例如托盘、纸箱、箱"
+"子、松散、其他）"
+
+#: admin/classes/class-wpc-mp-settings.php:109
+msgid "Settings for Multiple Package, please fill out the fields below."
+msgstr "多个包的设置，请填写以下字段。"
+
+#: admin/classes/class-wpc-mp-settings.php:112
+msgid "Multiple Package"
+msgstr "多个包"
+
+#: admin/classes/class-wpc-post-types.php:11
+#: admin/classes/class-wpc-post-types.php:12
+msgctxt "Shipment"
+msgid "Shipment"
+msgstr "货件"
+
+#: admin/classes/class-wpc-post-types.php:13
+#: admin/classes/class-wpc-post-types.php:26
+#: admin/classes/class-wpc-post-types.php:27
+msgid "Shipment"
+msgstr "货件"
+
+#: admin/classes/class-wpc-post-types.php:14
+msgid "All Shipment"
+msgstr "所有货件"
+
+#: admin/classes/class-wpc-post-types.php:15
+msgid "View Shipment"
+msgstr "查看货件"
+
+#: admin/classes/class-wpc-post-types.php:16
+msgid "Add New Shipment"
+msgstr "添加新货件"
+
+#: admin/classes/class-wpc-post-types.php:17
+msgid "Add Shipment"
+msgstr "添加货件"
+
+#: admin/classes/class-wpc-post-types.php:18
+msgid "Edit Shipment"
+msgstr "编辑货件"
+
+#: admin/classes/class-wpc-post-types.php:19
+msgid "Update Shipment"
+msgstr "更新装运"
+
+#: admin/classes/class-wpc-post-types.php:20
+msgid "Search Shipment"
+msgstr "搜索货件"
+
+#: admin/classes/class-wpc-post-types.php:21
+msgid "Shipment Not found"
+msgstr "未找到装运"
+
+#: admin/classes/class-wpc-post-types.php:22
+msgid "Shipment Not found in Trash"
+msgstr "在回收站中找不到货件"
+
+#: admin/classes/class-wpc-post-types.php:47
+#: admin/classes/class-wpc-post-types.php:48
+msgctxt "Category"
+msgid "Category"
+msgstr "分类目录"
+
+#: admin/classes/class-wpc-post-types.php:49
+msgid "Search Category"
+msgstr "搜索类别"
+
+#: admin/classes/class-wpc-post-types.php:50
+msgid "All Category"
+msgstr "所有分类"
+
+#: admin/classes/class-wpc-post-types.php:51
+msgid "Parent Category"
+msgstr "父类别"
+
+#: admin/classes/class-wpc-post-types.php:52
+msgid "Parent Category:"
+msgstr "父类别："
+
+#: admin/classes/class-wpc-post-types.php:53
+msgid "Edit Category"
+msgstr "编辑分类"
+
+#: admin/classes/class-wpc-post-types.php:54
+msgid "Update Category"
+msgstr "更新分类"
+
+#: admin/classes/class-wpc-post-types.php:55
+msgid "Add New Category"
+msgstr "添加新类别"
+
+#: admin/classes/class-wpc-post-types.php:56
+msgid "New Category Name"
+msgstr "新类别名称"
+
+#: admin/classes/class-wpc-post-types.php:57
+msgid "Category"
+msgstr "分类目录"
+
+#: admin/classes/class-wpc-print-admin.php:140
+msgid "Print Waybill"
+msgstr "打印运单"
+
+#: admin/classes/class-wpcargo.php:169
+msgid "Shipment Notification"
+msgstr "装运通知"
+
+#: admin/includes/filters.php:20
+msgid "-- Select All Status --"
+msgstr "-- 选择\"全部状态\""
+
+#: admin/includes/filters.php:36
+msgid "-- Select All Category --"
+msgstr "-- 选择所有类别 --"
+
+#: admin/includes/filters.php:45
+msgid "-- All Agents --"
+msgstr "-- 所有代理 --"
+
+#: admin/includes/filters.php:56
+msgid "-- All Owners --"
+msgstr "-- 所有所有者 --"
+
+#: admin/includes/filters.php:70
+msgid "-- All Shipper --"
+msgstr "-- 所有托运人 - -"
+
+#: admin/includes/filters.php:83
+msgid "-- All Receiver --"
+msgstr "-- 所有接收器 - -"
+
+#: admin/includes/functions.php:104
+msgid "Tracking Number"
+msgstr "快递单号"
+
+#: admin/includes/functions.php:107
+msgid "Shipper Phone"
+msgstr "发货人电话"
+
+#: admin/includes/functions.php:108
+msgid "Receiver Phone"
+msgstr "接收器电话"
+
+#: admin/includes/functions.php:109
+msgid "Admin Email"
+msgstr "管理员电子邮件"
+
+#: admin/includes/functions.php:110
+msgid "Name of the Shipper"
+msgstr "发货人姓名"
+
+#: admin/includes/functions.php:111
+msgid "Name of the Receiver"
+msgstr "接收器的名称"
+
+#: admin/includes/functions.php:113 admin/includes/functions.php:464
+#: admin/includes/hooks.php:407
+msgid "Location"
+msgstr "位置"
+
+#: admin/includes/functions.php:114
+msgid "Website Name"
+msgstr "网站名称"
+
+#: admin/includes/functions.php:115
+msgid "Website URL"
+msgstr "网址"
+
+#: admin/includes/functions.php:116
+msgid "Registered Client Email"
+msgstr "注册客户电子邮件"
+
+#: admin/includes/functions.php:123
+msgid "Pending"
+msgstr "待定"
+
+#: admin/includes/functions.php:124
+msgid "Picked up"
+msgstr "拿起"
+
+#: admin/includes/functions.php:125
+msgid "On Hold"
+msgstr "搁置"
+
+#: admin/includes/functions.php:126
+msgid "Out for delivery"
+msgstr "出送"
+
+#: admin/includes/functions.php:127
+msgid "In Transit"
+msgstr "运输途中"
+
+#: admin/includes/functions.php:128
+msgid "Enroute"
+msgstr "路线"
+
+#: admin/includes/functions.php:129
+msgid "Cancelled"
+msgstr "已取消"
+
+#: admin/includes/functions.php:130
+msgid "Delivered"
+msgstr "已发货"
+
+#: admin/includes/functions.php:131
+msgid "Returned"
+msgstr "已归还"
+
+#: admin/includes/functions.php:141
+msgid "-- Select Type --"
+msgstr "-选择类型-"
+
+#: admin/includes/functions.php:346
+msgid "Previous"
+msgstr "上一个"
+
+#: admin/includes/functions.php:347
+msgid "Next"
+msgstr "下一页"
+
+#: admin/includes/functions.php:348
+msgid "Shipments"
+msgstr "貨件"
+
+#: admin/includes/functions.php:385
+msgid "First"
+msgstr "第一"
+
+#: admin/includes/functions.php:387
+msgid "previous"
+msgstr "上一个"
+
+#: admin/includes/functions.php:400
+msgid "next"
+msgstr "下一个"
+
+#: admin/includes/functions.php:403
+msgid "Last"
+msgstr "最后"
+
+#. Plugin Name of the plugin/theme
+#: admin/includes/functions.php:419
+msgid "WPCargo"
+msgstr "Wpcargo"
+
+#: admin/includes/functions.php:422
+msgid "General Settings"
+msgstr "常规设置"
+
+#: admin/includes/functions.php:425
+msgid "Client Email Settings"
+msgstr "客户端电子邮件设置"
+
+#: admin/includes/functions.php:428
+msgid "Admin Email Settings"
+msgstr "管理员电子邮件设置"
+
+#: admin/includes/functions.php:431
+msgid "Shipment Settings"
+msgstr "发货设置"
+
+#: admin/includes/functions.php:434
+msgid "Reports"
+msgstr "报告"
+
+#: admin/includes/functions.php:437
+msgid "Map Settings"
+msgstr "地图设置"
+
+#: admin/includes/functions.php:440
+msgid "Print Layout"
+msgstr "打印布局"
+
+#: admin/includes/functions.php:443
+msgid "Shipment Label"
+msgstr "货运标签"
+
+#: admin/includes/functions.php:446 admin/templates/shipment-metabox.tpl.php:2
+msgid "Shipment Details"
+msgstr "发货详情"
+
+#: admin/includes/functions.php:452 admin/includes/hooks.php:406
+msgid "Date"
+msgstr "日期"
+
+#: admin/includes/functions.php:458
+msgid "Time"
+msgstr "时间"
+
+#: admin/includes/functions.php:470 admin/includes/hooks.php:408
+#: admin/templates/admin-print-label.tpl.php:69 templates/account.tpl.php:21
+#: templates/report.tpl.php:23
+msgid "Status"
+msgstr "状态"
+
+#: admin/includes/functions.php:476
+msgid "Updated By"
+msgstr "更新到"
+
+#: admin/includes/functions.php:548
+msgid "From: "
+msgstr "从："
+
+#: admin/includes/functions.php:552
+msgid "Dear"
+msgstr "亲爱的"
+
+#: admin/includes/functions.php:553
+msgid "Shipment number "
+msgstr "请注意您的发货号"
+
+#: admin/includes/functions.php:553
+msgid " has been assigned to you."
+msgstr "已分配给您。"
+
+#: admin/includes/functions.php:558
+msgid "Assign Shipment Notification"
+msgstr "分配发货通知"
+
+#: admin/includes/hooks.php:184 admin/includes/hooks.php:193
+msgid "Do you want to display it on account page?"
+msgstr "是否要在帐户页面上显示它？"
+
+#: admin/includes/hooks.php:247
+msgid "Registered Shipper"
+msgstr "注册发货人"
+
+#: admin/includes/hooks.php:426
+msgid "Shipment Status: "
+msgstr "发货状态"
+
+#: admin/includes/hooks.php:505
+msgid "SHIPPER DETAILS:"
+msgstr "发货人详细信息"
+
+#: admin/includes/hooks.php:513 admin/includes/hooks.php:531
+#: admin/templates/receiver-metabox.tpl.php:20
+#: admin/templates/shipper-metabox.tpl.php:15
+msgid "Address"
+msgstr "地址"
+
+#: admin/includes/hooks.php:514 admin/includes/hooks.php:532
+#: admin/templates/receiver-metabox.tpl.php:26
+#: admin/templates/shipper-metabox.tpl.php:19
+msgid "Email"
+msgstr "邮箱"
+
+#: admin/includes/hooks.php:522
+msgid "RECEIVER DETAILS:"
+msgstr "接收器详细信息"
+
+#: admin/includes/hooks.php:560
+msgid "PACKAGE DETAILS:"
+msgstr "套餐详细信息："
+
+#: admin/templates/account-settings.tpl.php:9
+msgid "Disable Search Client Shipper?"
+msgstr "禁用搜索客户端发货人？"
+
+#: admin/templates/account-settings.tpl.php:14
+msgid "Disable Search Client Receiver?"
+msgstr "是否禁用搜索客户端接收器？"
+
+#: admin/templates/account-settings.tpl.php:19
+msgid "Save Settings"
+msgstr "保存设置"
+
+#: admin/templates/admin-email-settings-option.tpl.php:7
+#: admin/templates/email-settings-option.tpl.php:7
+msgid "WPCargo Merge Tags"
+msgstr "WPCargo 合并标签"
+
+#: admin/templates/admin-email-settings-option.tpl.php:8
+#: admin/templates/email-settings-option.tpl.php:8
+msgid "Note: Use this tags for email setup to display shipment data."
+msgstr "注意：使用此标签进行电子邮件设置以显示货件数据。"
+
+#: admin/templates/admin-email-settings-option.tpl.php:11
+#: admin/templates/email-settings-option.tpl.php:11
+msgid "Code"
+msgstr "代码"
+
+#: admin/templates/admin-email-settings-option.tpl.php:12
+#: admin/templates/email-settings-option.tpl.php:12
+msgid "Label"
+msgstr "标签"
+
+#: admin/templates/admin-email-settings-option.tpl.php:30
+msgid "Activate Admin Email Notification?"
+msgstr "是否激活管理员电子邮件通知？"
+
+#: admin/templates/admin-email-settings-option.tpl.php:32
+#: admin/templates/email-settings-option.tpl.php:33
+msgid "Please check if you want to send email after updating the shipment."
+msgstr "请检查您是否要在更新货件后发送电子邮件。"
+
+#: admin/templates/admin-email-settings-option.tpl.php:36
+#: admin/templates/email-settings-option.tpl.php:39
+msgid "Select Shipment Status to send email Notification"
+msgstr "选择\"发货状态\"以发送电子邮件通知"
+
+#: admin/templates/admin-email-settings-option.tpl.php:47
+#: admin/templates/email-settings-option.tpl.php:51
+msgid ""
+"Note: If no Shipment status is selected, Email Notify all types of shipment "
+"status"
+msgstr "注意：如果未选择\"货件\"状态，则发送电子邮件通知所有类型的货件状态"
+
+#: admin/templates/admin-email-settings-option.tpl.php:51
+#: admin/templates/email-settings-option.tpl.php:55
+msgid "Domain Email"
+msgstr "域电子邮件"
+
+#: admin/templates/admin-email-settings-option.tpl.php:54
+#: admin/templates/email-settings-option.tpl.php:58
+msgid ""
+"Edit this if you want to change the header of your email automation. Default "
+"will be"
+msgstr "如果要更改电子邮件自动化的标头，请编辑此选项。默认为"
+
+#: admin/templates/admin-email-settings-option.tpl.php:58
+#: admin/templates/email-settings-option.tpl.php:63
+msgid "Mail To"
+msgstr "发邮件给"
+
+#: admin/templates/admin-email-settings-option.tpl.php:60
+#: admin/templates/email-settings-option.tpl.php:66
+msgid ""
+"Add emails with comma separated.(You can add WPCargo Merge Tags)<br>\n"
+"\t\t\t\t\tsample_1@mail.com, @sample_2@mail.com"
+msgstr ""
+"添加分隔逗号的电子邮件。（您可以添加 WPCargo 合并标记）<br>sample_1@mail."
+"com， @sample_2@mail.com"
+
+#: admin/templates/admin-email-settings-option.tpl.php:64
+#: admin/templates/email-settings-option.tpl.php:83
+msgid "Subject:"
+msgstr "主题："
+
+#: admin/templates/admin-email-settings-option.tpl.php:67
+#: admin/templates/email-settings-option.tpl.php:86
+msgid "Email Subject"
+msgstr "邮件主题"
+
+#: admin/templates/admin-email-settings-option.tpl.php:71
+#: admin/templates/email-settings-option.tpl.php:91
+msgid "Message Content:"
+msgstr "信息内容："
+
+#: admin/templates/admin-email-settings-option.tpl.php:81
+#: admin/templates/email-settings-option.tpl.php:104
+msgid "Footer:"
+msgstr "页脚："
+
+#: admin/templates/admin-print-label.tpl.php:5
+msgid "Accounts Copy"
+msgstr "帐户副本"
+
+#: admin/templates/admin-print-label.tpl.php:6
+msgid "Consignee Copy"
+msgstr "收货人副本"
+
+#: admin/templates/admin-print-label.tpl.php:7
+msgid "Shippers Copy"
+msgstr "发货人副本"
+
+#: admin/templates/admin-print-label.tpl.php:35 templates/account.tpl.php:19
+msgid "Delivery Date"
+msgstr "交货日期"
+
+#: admin/templates/admin-print-label.tpl.php:65
+msgid "Shipper"
+msgstr "发货人"
+
+#: admin/templates/admin-print-label.tpl.php:67
+msgid "Consignee"
+msgstr "收货人副本"
+
+#: admin/templates/admin-print-label.tpl.php:82
+msgid "Comment"
+msgstr "评论"
+
+#: admin/templates/assign-metabox.tpl.php:14
+msgid "Client"
+msgstr "客户"
+
+#: admin/templates/assign-metabox.tpl.php:17
+msgid "-- Select Client --"
+msgstr "-- 选择客户端 --"
+
+#: admin/templates/assign-metabox.tpl.php:34
+#: admin/templates/shipment-metabox.tpl.php:11
+#: admin/templates/shipment-metabox.tpl.php:44
+#: admin/templates/shipment-metabox.tpl.php:73
+#: admin/templates/shipment-metabox.tpl.php:97
+#: admin/templates/shipment-metabox.tpl.php:129
+#: admin/templates/shipment-metabox.tpl.php:150
+msgid "-- Select One --"
+msgstr "——请选择一个——"
+
+#: admin/templates/assign-metabox.tpl.php:43
+msgid "No agents found, please add agents "
+msgstr "未找到代理，请添加代理"
+
+#: admin/templates/assign-metabox.tpl.php:45
+#: admin/templates/shipment-metabox.tpl.php:21
+#: admin/templates/shipment-metabox.tpl.php:54
+#: admin/templates/shipment-metabox.tpl.php:83
+#: admin/templates/shipment-metabox.tpl.php:107
+#: admin/templates/shipment-metabox.tpl.php:139
+#: admin/templates/shipment-metabox.tpl.php:160
+msgid "here."
+msgstr "这里。"
+
+#: admin/templates/assign-metabox.tpl.php:47
+msgid " Make sure the role assign is \"WPCargo Agent\"."
+msgstr "确保角色分配为\"WPCargo 代理\"。"
+
+#: admin/templates/assign-metabox.tpl.php:53
+msgid "Employee"
+msgstr "员工"
+
+#: admin/templates/assign-metabox.tpl.php:56
+msgid "-- Select Employee --"
+msgstr "-- 选择员工 --"
+
+#: admin/templates/email-settings-option.tpl.php:30
+msgid "Activate Client Email Notification?"
+msgstr "是否激活客户端电子邮件通知？"
+
+#: admin/templates/email-settings-option.tpl.php:71
+msgid "Cc"
+msgstr "抄送"
+
+#: admin/templates/email-settings-option.tpl.php:74
+#: admin/templates/email-settings-option.tpl.php:80
+msgid ""
+"Add emails with comma separated. ( sample_1@mail.com, @sample_2@mail.com )"
+msgstr "添加分隔逗号的电子邮件。（ sample_1@mail.com， @sample_2@mail.com ）"
+
+#: admin/templates/email-settings-option.tpl.php:78
+msgid "Bcc"
+msgstr "密件抄送"
+
+#: admin/templates/history-map-settings.tpl.php:7
+msgid "Enable Shipment History Map"
+msgstr "启用装运历史记录映射"
+
+#: admin/templates/history-map-settings.tpl.php:13
+msgid "Display Map in result page?"
+msgstr "在结果页中显示地图？"
+
+#: admin/templates/history-map-settings.tpl.php:16
+msgid ""
+"Note: This option will take effect only in the result page when \"Shipment "
+"History Map\" option is enabled."
+msgstr "注意：此选项仅在启用\"发货历史记录映射\"选项时在结果页中生效。"
+
+#: admin/templates/history-map-settings.tpl.php:20
+msgid "Map Type"
+msgstr "地图类型"
+
+#: admin/templates/history-map-settings.tpl.php:23
+msgid "--Select Map Type--"
+msgstr "-- 选择地图类型 --"
+
+#: admin/templates/history-map-settings.tpl.php:24
+msgid "Terrain"
+msgstr "地形"
+
+#: admin/templates/history-map-settings.tpl.php:25
+msgid "Satellite"
+msgstr "卫星"
+
+#: admin/templates/history-map-settings.tpl.php:26
+msgid "Roadmap"
+msgstr "路线图"
+
+#: admin/templates/history-map-settings.tpl.php:27
+msgid "Hybrid"
+msgstr "混合"
+
+#: admin/templates/history-map-settings.tpl.php:29
+msgid "note: Default is Terrain."
+msgstr "注意：默认值为地形。"
+
+#: admin/templates/history-map-settings.tpl.php:33
+msgid "Zoom Level"
+msgstr "缩放级别"
+
+#: admin/templates/history-map-settings.tpl.php:36
+msgid "--Select Zoom Level--"
+msgstr "-- 选择缩放级别 -"
+
+#: admin/templates/history-map-settings.tpl.php:37
+msgid "World"
+msgstr "世界"
+
+#: admin/templates/history-map-settings.tpl.php:38
+msgid "Landmass/continent"
+msgstr "陆地/大陆"
+
+#: admin/templates/history-map-settings.tpl.php:39
+msgid "City"
+msgstr "城市"
+
+#: admin/templates/history-map-settings.tpl.php:40
+msgid "Streets"
+msgstr "街景地图"
+
+#: admin/templates/history-map-settings.tpl.php:41
+msgid "Buildings"
+msgstr "设备"
+
+#: admin/templates/history-map-settings.tpl.php:43
+msgid "note: Default is Streets."
+msgstr "注意：默认值为街道。"
+
+#: admin/templates/history-map-settings.tpl.php:47
+msgid "Google Map API Key"
+msgstr "谷歌地图API密钥"
+
+#: admin/templates/history-map-settings.tpl.php:50
+msgid "Please click here to get Google Map API Key"
+msgstr "请点击这里获取谷歌地图API密钥"
+
+#: admin/templates/history-map-settings.tpl.php:50
+msgid "Get API Key"
+msgstr "获取 API Key"
+
+#: admin/templates/history-map-settings.tpl.php:51
+msgid ""
+"Note: Google Map API Key needs to enable the following API's to make it work."
+msgstr "注意：Google 地图 API 密钥需要启用以下 API 才能使其正常工作。"
+
+#: admin/templates/history-map-settings.tpl.php:53
+msgid "Places API"
+msgstr "地点 API"
+
+#: admin/templates/history-map-settings.tpl.php:54
+msgid "Maps JavaScript API"
+msgstr "地图 JavaScript API"
+
+#: admin/templates/history-map-settings.tpl.php:55
+msgid "Geolocation API"
+msgstr "位置"
+
+#: admin/templates/history-map-settings.tpl.php:56
+msgid "Geocoding API"
+msgstr "地理编码 API"
+
+#: admin/templates/history-map-settings.tpl.php:61
+msgid "Longitude"
+msgstr "经度"
+
+#: admin/templates/history-map-settings.tpl.php:67
+msgid "Latitude"
+msgstr "纬度"
+
+#: admin/templates/history-map-settings.tpl.php:73
+msgid "Country Restriction"
+msgstr "国家限制"
+
+#: admin/templates/history-map-settings.tpl.php:77
+#, php-format
+msgid ""
+"Please enter %s compatible country code. This is to limit the results for "
+"you chosen country only."
+msgstr "请输入%s国家/地区代码。这是为了限制您选择的国家/地区的结果。"
+
+#: admin/templates/history-map-settings.tpl.php:83
+msgid "Google Map Label Color"
+msgstr "谷歌地图标签颜色"
+
+#: admin/templates/history-map-settings.tpl.php:89
+msgid "Google Map Label Size"
+msgstr "谷歌地图标签大小"
+
+#: admin/templates/history-map-settings.tpl.php:94
+msgid "Google Map Marker"
+msgstr "Google 地图标记"
+
+#: admin/templates/history-map-settings.tpl.php:96
+#: admin/templates/settings-option.tpl.php:33
+msgid "Upload Logo"
+msgstr "上传Logo"
+
+#: admin/templates/history-map-settings.tpl.php:128
+msgid "Note: Marker must be 55px X 55px dimension for best output."
+msgstr "注意：标记必须为 55px X 55px 尺寸，以获得最佳输出。"
+
+#: admin/templates/history-map-settings.tpl.php:131
+msgid "Save Map Settings"
+msgstr "保存地图设置"
+
+#: admin/templates/package-metabox.tpl.php:34
+#: admin/templates/package-metabox.tpl.php:49
+#: admin/templates/shipment-history-editable.tpl.php:35
+msgid "Delete"
+msgstr "删除"
+
+#: admin/templates/package-metabox.tpl.php:56
+msgid "Add Package"
+msgstr "添加套餐"
+
+#: admin/templates/print-details-shipment.tpl.php:27
+#: templates/result-form-shipment-details.tpl.php:24
+msgid "Shipment Information"
+msgstr "装运信息"
+
+#: admin/templates/print-details-shipment.tpl.php:29
+#: templates/result-form-shipment-details.tpl.php:26
+msgid "Origin:"
+msgstr "起源："
+
+#: admin/templates/print-details-shipment.tpl.php:33
+#: templates/result-form-shipment-details.tpl.php:30
+msgid "Package:"
+msgstr "包:"
+
+#: admin/templates/print-details-shipment.tpl.php:37
+#: templates/result-form-shipment-details.tpl.php:34
+msgid "Status:"
+msgstr "状态："
+
+#: admin/templates/print-details-shipment.tpl.php:43
+#: templates/result-form-shipment-details.tpl.php:38
+msgid "Destination:"
+msgstr "目的地:"
+
+#: admin/templates/print-details-shipment.tpl.php:47
+#: templates/result-form-shipment-details.tpl.php:42
+msgid "Carrier:"
+msgstr "承运人："
+
+#: admin/templates/print-details-shipment.tpl.php:51
+#: templates/result-form-shipment-details.tpl.php:46
+msgid "Type of Shipment:"
+msgstr "装运类型："
+
+#: admin/templates/print-details-shipment.tpl.php:55
+#: templates/result-form-shipment-details.tpl.php:50
+msgid "Weight:"
+msgstr "体重："
+
+#: admin/templates/print-details-shipment.tpl.php:59
+#: templates/result-form-shipment-details.tpl.php:54
+msgid "Shipment Mode:"
+msgstr "装运模式："
+
+#: admin/templates/print-details-shipment.tpl.php:63
+#: templates/result-form-shipment-details.tpl.php:58
+msgid "Carrier Reference No.:"
+msgstr "承运人参考号："
+
+#: admin/templates/print-details-shipment.tpl.php:67
+#: templates/result-form-shipment-details.tpl.php:62
+msgid "Product:"
+msgstr "产品："
+
+#: admin/templates/print-details-shipment.tpl.php:71
+#: templates/result-form-shipment-details.tpl.php:66
+msgid "Qty:"
+msgstr "数量："
+
+#: admin/templates/print-details-shipment.tpl.php:75
+#: templates/result-form-shipment-details.tpl.php:70
+msgid "Payment Mode:"
+msgstr "支付模式"
+
+#: admin/templates/print-details-shipment.tpl.php:79
+#: templates/result-form-shipment-details.tpl.php:74
+msgid "Total Freight:"
+msgstr "总运费："
+
+#: admin/templates/print-details-shipment.tpl.php:83
+#: templates/result-form-shipment-details.tpl.php:78
+msgid "Expected Delivery Date:"
+msgstr "预期交货日期："
+
+#: admin/templates/print-details-shipment.tpl.php:87
+#: templates/result-form-shipment-details.tpl.php:82
+msgid "Departure Time:"
+msgstr "出发时间："
+
+#: admin/templates/print-details-shipment.tpl.php:91
+#: templates/result-form-shipment-details.tpl.php:86
+msgid "Pick-up Date:"
+msgstr "接机日期："
+
+#: admin/templates/print-details-shipment.tpl.php:95
+#: templates/result-form-shipment-details.tpl.php:90
+msgid "Pick-up Time:"
+msgstr "接机时间："
+
+#: admin/templates/print-details-shipment.tpl.php:99
+#: templates/result-form-shipment-details.tpl.php:94
+msgid "Comments:"
+msgstr "评论："
+
+#: admin/templates/receiver-metabox.tpl.php:2
+msgid "Receiver Details"
+msgstr "接收器详细信息"
+
+#: admin/templates/settings-fields-option.tpl.php:2
+msgid "Add Type of Shipment"
+msgstr "添加装运类型"
+
+#: admin/templates/settings-fields-option.tpl.php:4
+msgid "Ex. Shipment 1, Shipment 2, Shipment 3"
+msgstr "例如，货件 1，货件 2，货件 3"
+
+#: admin/templates/settings-fields-option.tpl.php:5
+#: admin/templates/settings-fields-option.tpl.php:12
+#: admin/templates/settings-fields-option.tpl.php:19
+#: admin/templates/settings-fields-option.tpl.php:27
+#: admin/templates/settings-fields-option.tpl.php:34
+#: admin/templates/settings-option.tpl.php:27
+msgid "Must be comma separated"
+msgstr "必须分隔逗号"
+
+#: admin/templates/settings-fields-option.tpl.php:9
+msgid "Add Shipment Mode"
+msgstr "添加装运模式"
+
+#: admin/templates/settings-fields-option.tpl.php:11
+msgid "Ex. Shipment Mode 1, Shipment Mode 2, Shipment Mode 3"
+msgstr "例如， 装运模式 1， 装运模式 2， 装运模式 3"
+
+#: admin/templates/settings-fields-option.tpl.php:16
+msgid "Add Shipment Location"
+msgstr "添加装运位置"
+
+#: admin/templates/settings-fields-option.tpl.php:18
+msgid "Ex. Afghanistan, Albania, Algeria"
+msgstr "阿富汗、阿尔巴尼亚、阿尔及利亚"
+
+#: admin/templates/settings-fields-option.tpl.php:20
+msgid ""
+"Note: If you have WPCargo Custom Field Add-on installed, go to Manage form "
+"Fields to update list of locations."
+msgstr ""
+"注意：如果您安装了 WPCargo 自定义字段加载项，请转到\"管理表单字段\"以更新位置"
+"列表。"
+
+#: admin/templates/settings-fields-option.tpl.php:24
+msgid "Add Shipment Carrier"
+msgstr "添加装运承运人"
+
+#: admin/templates/settings-fields-option.tpl.php:26
+msgid "Ex. Shipment Carrier 1, Shipment Carrier 2, Shipment Carrier 3"
+msgstr "例如装运承运人 1，装运承运人 2，装运承运人 3"
+
+#: admin/templates/settings-fields-option.tpl.php:31
+msgid "Add Shipment Payment Mode"
+msgstr "添加货件付款模式"
+
+#: admin/templates/settings-fields-option.tpl.php:33
+msgid "Ex. Payment Mode 1, Payment Mode 2, Payment Mode 3"
+msgstr "例如， 付款模式 1， 付款模式 2， 付款模式 3"
+
+#: admin/templates/settings-option.tpl.php:26
+msgid "Ex. Shipment Status 1, Shipment Status 2, Shipment Status 3"
+msgstr "例如装运状态 1，装运状态 2，装运状态 3"
+
+#: admin/templates/settings-option.tpl.php:31
+msgid "Add Shipment Logo"
+msgstr "添加装运徽标"
+
+#: admin/templates/settings-option.tpl.php:66
+msgid "Display Barcode?"
+msgstr "显示条形码？"
+
+#: admin/templates/settings-option.tpl.php:69
+msgid "Check if you want to display barcode at the results."
+msgstr "检查您是否要在结果中显示条形码。"
+
+#: admin/templates/settings-option.tpl.php:73
+msgid "Track Page Settings"
+msgstr "跟踪页面设置"
+
+#: admin/templates/settings-option.tpl.php:77
+msgid "--Select Page--"
+msgstr "--选择页面-"
+
+#: admin/templates/settings-option.tpl.php:82
+msgid "Select a page to insert"
+msgstr "选择要插入的页面"
+
+#: admin/templates/settings-option.tpl.php:85
+msgid "Edit Page"
+msgstr "编辑页面"
+
+#: admin/templates/settings-option.tpl.php:86
+msgid "View Page"
+msgstr "查看页面"
+
+#: admin/templates/settings-option.tpl.php:98
+msgid "Print Settings"
+msgstr "打印设置"
+
+#: admin/templates/settings-option.tpl.php:101
+msgid "Font family"
+msgstr "字体系列"
+
+#: admin/templates/settings-option.tpl.php:104
+msgid "Default"
+msgstr "默认"
+
+#: admin/templates/settings-option.tpl.php:112
+msgid "Font Size"
+msgstr "字体大小"
+
+#: admin/templates/settings-option.tpl.php:118
+msgid "Barcode Size"
+msgstr "条形码"
+
+#: admin/templates/settings-option.tpl.php:127
+msgid "Package Calculation Settings"
+msgstr "包计算设置"
+
+#: admin/templates/settings-option.tpl.php:130
+msgid "Dimension Divisor (cm)"
+msgstr "尺寸除数器 （厘米）"
+
+#: admin/templates/settings-option.tpl.php:136
+msgid "Dimension Divisor (inc)"
+msgstr "尺寸除数器 （inc）"
+
+#: admin/templates/settings-option.tpl.php:144
+msgid "Note: These values are used in calculating Volumetric Weight."
+msgstr "注意：这些值用于计算体积权重。"
+
+#: admin/templates/settings-option.tpl.php:145
+msgid "Formula"
+msgstr "公式"
+
+#: admin/templates/settings-option.tpl.php:145
+msgid "Volumetric Weight."
+msgstr "体积重量。"
+
+#: admin/templates/settings-option.tpl.php:145 includes/packages.php:159
+msgid "Length"
+msgstr "长度"
+
+#: admin/templates/settings-option.tpl.php:145 includes/packages.php:165
+msgid "Width"
+msgstr "宽度"
+
+#: admin/templates/settings-option.tpl.php:145 includes/packages.php:171
+msgid "Height"
+msgstr "高度"
+
+#: admin/templates/settings-option.tpl.php:145
+msgid "Dimension Divisor"
+msgstr "尺寸分器"
+
+#: admin/templates/settings-option.tpl.php:149
+msgid "Shipment Number Format"
+msgstr "装运编号格式"
+
+#: admin/templates/settings-option.tpl.php:152
+msgid "Enable Restrict Duplicate Shipment Number"
+msgstr "启用限制重复的发货号"
+
+#: admin/templates/settings-option.tpl.php:158
+msgid "Enable Autogenerate Shipment Number?"
+msgstr "启用自动生成货件编号？"
+
+#: admin/templates/settings-option.tpl.php:164
+msgid "Shipment Number Prefix"
+msgstr "装运编号前缀"
+
+#: admin/templates/settings-option.tpl.php:170
+msgid "Shipment Number Suffix"
+msgstr "装运编号后缀"
+
+#: admin/templates/settings-option.tpl.php:177
+msgid "Shipment Number of Digits"
+msgstr "装运数字"
+
+#: admin/templates/settings-option.tpl.php:181
+msgid ""
+"This will be the number of digits that autocreate shipment title. Note: The "
+"default number of digits is 12 and minumum of 4 digits"
+msgstr "这将是自动创建货件标题的位数。注意： 默认数字为 12，最小值为 4 位"
+
+#: admin/templates/settings-option.tpl.php:185
+msgid "Base color"
+msgstr "底色"
+
+#: admin/templates/settings-option.tpl.php:191
+msgid "TAX(%)"
+msgstr "税率(%)"
+
+#: admin/templates/settings-option.tpl.php:194
+msgid ""
+"Note: This setting is optional, some of the WPCargo add on plugins use this "
+"data."
+msgstr "注意：此设置是可选的，某些 WPCargo 附加插件使用此数据。"
+
+#: admin/templates/settings-option.tpl.php:198
+msgid "Shipment History Settings"
+msgstr "发货历史记录设置"
+
+#: admin/templates/settings-option.tpl.php:201
+msgid "Display Shipment History in Invoice"
+msgstr "在发票中显示装运历史记录"
+
+#: admin/templates/settings-option.tpl.php:207
+msgid "Enable User Timezone"
+msgstr "启用用户时区"
+
+#: admin/templates/settings-option.tpl.php:213
+msgid "Allow Roles to update shipment history"
+msgstr "允许角色更新装运历史记录"
+
+#: admin/templates/settings-option.tpl.php:230
+msgid "Assign Shipment Email Settings"
+msgstr "分配发货电子邮件设置"
+
+#: admin/templates/settings-option.tpl.php:233
+msgid "Disable Email for Employee?"
+msgstr "是否禁用员工的电子邮件？"
+
+#: admin/templates/settings-option.tpl.php:239
+msgid "Disable Email for Agent?"
+msgstr "禁用代理电子邮件？"
+
+#: admin/templates/settings-option.tpl.php:245
+msgid "Disable Email for Client?"
+msgstr "是否禁用客户端的电子邮件？"
+
+#: admin/templates/shipment-history.tpl.php:33
+msgid "No Shipment History Found."
+msgstr "未找到装运历史记录。"
+
+#: admin/templates/shipment-metabox.tpl.php:20
+#: admin/templates/shipment-metabox.tpl.php:53
+#: admin/templates/shipment-metabox.tpl.php:82
+#: admin/templates/shipment-metabox.tpl.php:106
+#: admin/templates/shipment-metabox.tpl.php:138
+#: admin/templates/shipment-metabox.tpl.php:159
+msgid "No Selection setup, Please add selection"
+msgstr "无选择设置，请添加选择"
+
+#: admin/templates/shipment-metabox.tpl.php:171
+msgid "Pickup Time :"
+msgstr "取件时间 ："
+
+#: admin/templates/shipper-metabox.tpl.php:2
+msgid "Shipper Details"
+msgstr "发货人详细信息"
+
+#: admin/templates/user-profile.tpl.php:1
+msgid "User Profile"
+msgstr "用户资料"
+
+#: admin/templates/user-profile.tpl.php:4
+msgid "Timezone"
+msgstr "时区"
+
+#: admin/templates/user-profile.tpl.php:9
+msgid ""
+"Choose user timezone. This will override general settings timezone for user."
+msgstr "选择用户时区。这将覆盖用户的常规设置时区。"
+
+#: admin/templates/user-profile.tpl.php:13
+msgid "Company Logo"
+msgstr "公司标志"
+
+#: admin/templates/user-profile.tpl.php:21
+msgid "Upload Company Logo"
+msgstr "上传公司LOGO"
+
+#: admin/templates/user-profile.tpl.php:25
+msgid "Business Registration #"
+msgstr "企业注册#"
+
+#: admin/templates/user-profile.tpl.php:31
+msgid "GST Account #"
+msgstr "消费税账户#"
+
+#: admin/templates/user-profile.tpl.php:37
+msgid "Minimum Notification Unit"
+msgstr "最小通知单位"
+
+#: classes/class-wpc-print.php:35 classes/class-wpc-print.php:39
+msgid "Print Invoice"
+msgstr "打印发票"
+
+#: includes/packages.php:24
+msgid "Total Volume Weight :"
+msgstr "总体积重量 ："
+
+#: includes/packages.php:27
+msgid "Total Actual Weight :"
+msgstr "实际总重量 ："
+
+#: includes/packages.php:139
+msgid "Qty."
+msgstr "数量"
+
+#: includes/packages.php:145
+msgid "Piece Type"
+msgstr "件型"
+
+#: includes/packages.php:151
+msgid "Description"
+msgstr "描述"
+
+#: includes/packages.php:178
+msgid "Weight "
+msgstr "重量"
+
+#: templates/account-cf.tpl.php:29 templates/account-cf.tpl.php:47
+#: templates/account.tpl.php:25
+msgid "View More"
+msgstr "查看更多"
+
+#: templates/account-cf.tpl.php:32 templates/account.tpl.php:1
+msgid "Welcome"
+msgstr "欢迎"
+
+#: templates/account-cf.tpl.php:34 templates/account.tpl.php:3
+msgid "Shipment List"
+msgstr "装运列表"
+
+#: templates/account-cf.tpl.php:39 templates/account.tpl.php:18
+msgid "Tracking #"
+msgstr "包裹单号"
+
+#: templates/account-cf.tpl.php:67 templates/account.tpl.php:42
+msgid "View Details"
+msgstr "查看详情"
+
+#: templates/account-cf.tpl.php:72
+msgid "No Shipment found!"
+msgstr "未找到货件！"
+
+#: templates/account.tpl.php:6
+msgid "Sort"
+msgstr "排序"
+
+#: templates/account.tpl.php:8
+msgid "All"
+msgstr "所有"
+
+#: templates/account.tpl.php:9 templates/account.tpl.php:40
+msgid "Owned"
+msgstr "拥有"
+
+#: templates/account.tpl.php:10 templates/account.tpl.php:40
+msgid "Receivable"
+msgstr "应收账款"
+
+#: templates/account.tpl.php:20
+msgid "Product Qty."
+msgstr "产品数量。"
+
+#: templates/account.tpl.php:23
+msgid "Designation"
+msgstr "指定"
+
+#: templates/account.tpl.php:49
+msgid "No shipment found!"
+msgstr "未找到货件！"
+
+#: templates/package.tpl.php:42
+msgid "Data empty"
+msgstr "数据为空"
+
+#: templates/report.tpl.php:3
+msgid "Shipper Name:"
+msgstr "收货人名字"
+
+#: templates/report.tpl.php:6
+msgid "Registered Shipper:"
+msgstr "注册发货人："
+
+#: templates/report.tpl.php:8
+msgid "-- Registered Shipper --"
+msgstr "-- 注册托运人 --"
+
+#: templates/report.tpl.php:15
+msgid "Date Range"
+msgstr "日期范围"
+
+#: templates/report.tpl.php:17
+msgid "From : "
+msgstr "来自: "
+
+#: templates/report.tpl.php:19
+msgid "To : "
+msgstr "自："
+
+#: templates/report.tpl.php:27
+msgid "Choose Status"
+msgstr "状态"
+
+#: templates/report.tpl.php:37
+msgid "Select Option"
+msgstr "选择选项"
+
+#: templates/report.tpl.php:73
+msgid "Generate Report"
+msgstr "生成报告"
+
+#: templates/report.tpl.php:74
+msgid ""
+"Note: This will take a couple of seconds to generate reports, wait for a pop "
+"up message to save your report."
+msgstr "注意：生成报表需要几秒钟，等待弹出消息以保存报表。"
+
+#: templates/result-form-shipper-details.tpl.php:13
+msgid "Shipper Information"
+msgstr "发货人信息"
+
+#: templates/result-form-shipper-details.tpl.php:20
+msgid "Receiver Information"
+msgstr "收件人信息"
+
+#: templates/result-form.tpl.php:27
+msgid "No results found!"
+msgstr "未找到结果!"
+
+#: templates/track-form.tpl.php:69
+msgid "Enter the Consignment No."
+msgstr "输入寄售编号。"
+
+#: templates/track-form.tpl.php:73
+msgid "Enter Tracking Number"
+msgstr "输入跟踪号码"
+
+#: templates/track-form.tpl.php:74
+msgid "TRACK RESULT"
+msgstr "跟踪结果"
+
+#: templates/track-form.tpl.php:76
+msgid "Ex: 12345"
+msgstr "前： 12345"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wptaskforce.com/"
+msgstr "http://wptaskforce.com/"
+
+#. Description of the plugin/theme
+msgid ""
+"WPCargo is a WordPress plug-in designed to provide ideal technology solution "
+"for your Cargo and Courier Operations. Whether you are an exporter, freight "
+"forwarder, importer, supplier, customs broker, overseas agent, or warehouse "
+"operator, WPCargo helps you to increase the visibility, efficiency, and "
+"quality services of your cargo and shipment business."
+msgstr ""
+"WPCargo 是一个 WordPress 插件，旨在为您的货物和快递运营提供理想的技术解决方"
+"案。无论您是出口商、货运代理、进口商、供应商、报关商、海外代理还是仓库运营"
+"商，WPCargo 都可以帮助您提高货物和货运业务的可见性、效率和优质服务。"
+
+#. Author of the plugin/theme
+msgid "<a href=\"http://www.wptaskforce.com/\">WPTaskForce</a>"
+msgstr "<a href=\"http://www.wptaskforce.com/\">WPTaskForce</a>"
